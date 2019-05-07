@@ -1,0 +1,4176 @@
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Tonari no Kaibutsu-kun and wants to watch short anime with these genres:Romance
+
+#1 recommendation: Arakawa Under the Bridge
+Similarity rate of the show above and your favorite show:0.9557120125225885
+
+#2 recommendation: Sukitte Ii na yo.
+Similarity rate of the show above and your favorite show:0.9556652220078965
+
+#3 recommendation: Arakawa Under the Bridge x Bridge
+Similarity rate of the show above and your favorite show:0.9554966575305583
+
+#4 recommendation: Oda Nobuna no Yabou
+Similarity rate of the show above and your favorite show:0.9548397587920903
+
+#5 recommendation: Honobono Log
+Similarity rate of the show above and your favorite show:0.9531961881327671
+
+#6 recommendation: Nobunaga Concerto
+Similarity rate of the show above and your favorite show:0.9514041925935942
+
+#7 recommendation: Plastic Memories
+Similarity rate of the show above and your favorite show:0.9503981846705519
+
+#8 recommendation: Love Stage!!
+Similarity rate of the show above and your favorite show:0.9500645994945838
+
+#9 recommendation: True Tears
+Similarity rate of the show above and your favorite show:0.9468662138361
+
+#10 recommendation: Chouyaku Hyakuninisshu: Uta Koi.
+Similarity rate of the show above and your favorite show:0.9458387628258534
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Tonari no Kaibutsu-kun
+
+#1 recommendation: Nijiiro Days
+
+#2 recommendation: Chou Kuse ni Narisou
+
+#3 recommendation: Amagami SS+ Plus
+
+#4 recommendation: Ookami Shoujo to Kuro Ouji
+
+#5 recommendation: Fudanshi Koukou Seikatsu
+
+#6 recommendation: Tsuyokiss
+
+#7 recommendation: Bokura wa Minna Kawaisou
+
+#8 recommendation: Ao Haru Ride
+
+#9 recommendation: Sora no Manimani
+
+#10 recommendation: Mikakunin de Shinkoukei
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Tonari no Kaibutsu-kun and wants to watch short anime with these genres:Romance, School, Shoujo, Comedy
+
+#1 recommendation: Sukitte Ii na yo.
+Similarity rate of the show above and your favorite show:0.9990972387343611
+
+#2 recommendation: Baka to Test to Shoukanjuu
+Similarity rate of the show above and your favorite show:0.99315546724936
+
+#3 recommendation: Yuru Yuri
+Similarity rate of the show above and your favorite show:0.9922402187876855
+
+#4 recommendation: Watashi ga Motete Dousunda
+Similarity rate of the show above and your favorite show:0.9917221110049629
+
+#5 recommendation: Bokura wa Minna Kawaisou
+Similarity rate of the show above and your favorite show:0.9901482337748927
+
+#6 recommendation: Masuda Kousuke Gekijou Gag Manga Biyori 2
+Similarity rate of the show above and your favorite show:0.9891565813627803
+
+#7 recommendation: Minami-ke Tadaima
+Similarity rate of the show above and your favorite show:0.9889389956621204
+
+#8 recommendation: Minami-ke
+Similarity rate of the show above and your favorite show:0.9887163037657248
+
+#9 recommendation: Mitsudomoe
+Similarity rate of the show above and your favorite show:0.9885258637097112
+
+#10 recommendation: Amagami SS+ Plus
+Similarity rate of the show above and your favorite show:0.988249359421837
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Tonari no Kaibutsu-kun
+
+#1 recommendation: Nijiiro Days
+
+#2 recommendation: Chou Kuse ni Narisou
+
+#3 recommendation: Amagami SS+ Plus
+
+#4 recommendation: Ookami Shoujo to Kuro Ouji
+
+#5 recommendation: Fudanshi Koukou Seikatsu
+
+#6 recommendation: Tsuyokiss
+
+#7 recommendation: Bokura wa Minna Kawaisou
+
+#8 recommendation: Ao Haru Ride
+
+#9 recommendation: Sora no Manimani
+
+#10 recommendation: Mikakunin de Shinkoukei
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Tonari no Kaibutsu-kun and wants to watch short anime with these genres:Romance, School, Shoujo, Comedy, Slice of Life
+
+#1 recommendation: Minami-ke Tadaima
+Similarity rate of the show above and your favorite show:0.9999884790663665
+
+#2 recommendation: Servant x Service
+Similarity rate of the show above and your favorite show:0.9999534400839465
+
+#3 recommendation: Minami-ke
+Similarity rate of the show above and your favorite show:0.9997632990180988
+
+#4 recommendation: Yume-iro Pâtissière SP Professional
+Similarity rate of the show above and your favorite show:0.9996197513128638
+
+#5 recommendation: Working!!
+Similarity rate of the show above and your favorite show:0.999619028588045
+
+#6 recommendation: Mitsudomoe
+Similarity rate of the show above and your favorite show:0.9995707311622434
+
+#7 recommendation: Ichigo Mashimaro
+Similarity rate of the show above and your favorite show:0.9993910455117594
+
+#8 recommendation: New Game!
+Similarity rate of the show above and your favorite show:0.9991724506316769
+
+#9 recommendation: Sukitte Ii na yo.
+Similarity rate of the show above and your favorite show:0.9990972387343611
+
+#10 recommendation: Yuru Yuri
+Similarity rate of the show above and your favorite show:0.9984611402844035
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Tonari no Kaibutsu-kun
+
+#1 recommendation: Nijiiro Days
+
+#2 recommendation: Chou Kuse ni Narisou
+
+#3 recommendation: Amagami SS+ Plus
+
+#4 recommendation: Ookami Shoujo to Kuro Ouji
+
+#5 recommendation: Fudanshi Koukou Seikatsu
+
+#6 recommendation: Tsuyokiss
+
+#7 recommendation: Bokura wa Minna Kawaisou
+
+#8 recommendation: Ao Haru Ride
+
+#9 recommendation: Sora no Manimani
+
+#10 recommendation: Mikakunin de Shinkoukei
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Tonari no Kaibutsu-kun and wants to watch normal anime with these genres:Romance
+
+#1 recommendation: Magic Knight Rayearth II
+Similarity rate of the show above and your favorite show:0.7941131499165383
+
+#2 recommendation: Lodoss-tou Senki: Eiyuu Kishi Den
+Similarity rate of the show above and your favorite show:0.785868583728946
+
+#3 recommendation: Tatakau Shisho: The Book of Bantorra
+Similarity rate of the show above and your favorite show:0.7782126583591983
+
+#4 recommendation: Sanchoume no Yuuhi
+Similarity rate of the show above and your favorite show:0.7741893071932331
+
+#5 recommendation: Mikan Enikki
+Similarity rate of the show above and your favorite show:0.7719995119398997
+
+#6 recommendation: Yu☆Gi☆Oh!
+Similarity rate of the show above and your favorite show:0.7686764283804647
+
+#7 recommendation: Space Cobra
+Similarity rate of the show above and your favorite show:0.7463755909677331
+
+#8 recommendation: Ganbarist! Shun
+Similarity rate of the show above and your favorite show:0.7444642564439461
+
+#9 recommendation: Air Master
+Similarity rate of the show above and your favorite show:0.7431597725062888
+
+#10 recommendation: Street Fighter II V
+Similarity rate of the show above and your favorite show:0.7207217129359076
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Tonari no Kaibutsu-kun
+
+#1 recommendation: Nijiiro Days
+
+#2 recommendation: Chou Kuse ni Narisou
+
+#3 recommendation: Amagami SS+ Plus
+
+#4 recommendation: Ookami Shoujo to Kuro Ouji
+
+#5 recommendation: Fudanshi Koukou Seikatsu
+
+#6 recommendation: Tsuyokiss
+
+#7 recommendation: Bokura wa Minna Kawaisou
+
+#8 recommendation: Ao Haru Ride
+
+#9 recommendation: Sora no Manimani
+
+#10 recommendation: Mikakunin de Shinkoukei
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Tonari no Kaibutsu-kun and wants to watch long anime with these genres:Romance
+
+#1 recommendation: Gegege no Kitarou (2007)
+Similarity rate of the show above and your favorite show:0.00929142315402392
+
+#2 recommendation: Touch
+Similarity rate of the show above and your favorite show:0.00919299294847542
+
+#3 recommendation: Doubutsu Mura Monogatari
+Similarity rate of the show above and your favorite show:0.00886556554833752
+
+#4 recommendation: Kodomo no Omocha (TV)
+Similarity rate of the show above and your favorite show:0.008431911613392781
+
+#5 recommendation: Hoshi no Kirby
+Similarity rate of the show above and your favorite show:0.008248027081654738
+
+#6 recommendation: Duel Masters Cross
+Similarity rate of the show above and your favorite show:0.008212182587419195
+
+#7 recommendation: Penguin no Mondai
+Similarity rate of the show above and your favorite show:0.008142384987688845
+
+#8 recommendation: MÄR
+Similarity rate of the show above and your favorite show:0.00813298186568134
+
+#9 recommendation: Manga Doushite Monogatari
+Similarity rate of the show above and your favorite show:0.008036388037089738
+
+#10 recommendation: Slam Dunk
+Similarity rate of the show above and your favorite show:0.008022280309013304
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Tonari no Kaibutsu-kun
+
+#1 recommendation: Nijiiro Days
+
+#2 recommendation: Chou Kuse ni Narisou
+
+#3 recommendation: Amagami SS+ Plus
+
+#4 recommendation: Ookami Shoujo to Kuro Ouji
+
+#5 recommendation: Fudanshi Koukou Seikatsu
+
+#6 recommendation: Tsuyokiss
+
+#7 recommendation: Bokura wa Minna Kawaisou
+
+#8 recommendation: Ao Haru Ride
+
+#9 recommendation: Sora no Manimani
+
+#10 recommendation: Mikakunin de Shinkoukei
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Yuri!!! on Ice and wants to watch short anime with these genres:Sports, Comedy
+
+#1 recommendation: Barakamon
+Similarity rate of the show above and your favorite show:0.9734450310928554
+
+#2 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+Similarity rate of the show above and your favorite show:0.9662200453964129
+
+#3 recommendation: Ping Pong The Animation
+Similarity rate of the show above and your favorite show:0.955160504686273
+
+#4 recommendation: Owarimonogatari
+Similarity rate of the show above and your favorite show:0.9507218047187399
+
+#5 recommendation: Mob Psycho 100
+Similarity rate of the show above and your favorite show:0.9391124386229963
+
+#6 recommendation: Jarujio Animal
+Similarity rate of the show above and your favorite show:0.9390037011242953
+
+#7 recommendation: Nodame Cantabile Finale
+Similarity rate of the show above and your favorite show:0.9346790408485464
+
+#8 recommendation: Space☆Dandy 2nd Season
+Similarity rate of the show above and your favorite show:0.933980494421034
+
+#9 recommendation: Gin no Saji 2nd Season
+Similarity rate of the show above and your favorite show:0.9328886145574546
+
+#10 recommendation: Danshi Koukousei no Nichijou
+Similarity rate of the show above and your favorite show:0.9327529539128087
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Yuri!!! on Ice
+
+#1 recommendation: Anitore! EX
+
+#2 recommendation: Anitore! XX
+
+#3 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+
+#4 recommendation: Ganbare-bu Next!
+
+#5 recommendation: Ookiku Furikabutte
+
+#6 recommendation: Bakuhatsu Gorou
+
+#7 recommendation: Pichiko Dakyuubu
+
+#8 recommendation: Honoo no Toukyuuji: Dodge Danpei
+
+#9 recommendation: Eagle Sam
+
+#10 recommendation: Midori no Makibao
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Yuri!!! on Ice and wants to watch normal anime with these genres:Sports, Comedy
+
+#1 recommendation: Tengen Toppa Gurren Lagann
+Similarity rate of the show above and your favorite show:0.7972783539765118
+
+#2 recommendation: Romeo no Aoi Sora
+Similarity rate of the show above and your favorite show:0.6635318595201325
+
+#3 recommendation: Space Cobra
+Similarity rate of the show above and your favorite show:0.6254462741284813
+
+#4 recommendation: Akachan to Boku
+Similarity rate of the show above and your favorite show:0.6178581420045697
+
+#5 recommendation: Bishoujo Senshi Sailor Moon: Sailor Stars
+Similarity rate of the show above and your favorite show:0.6147528665979961
+
+#6 recommendation: Magic Knight Rayearth II
+Similarity rate of the show above and your favorite show:0.6060489810012178
+
+#7 recommendation: Sanchoume no Yuuhi
+Similarity rate of the show above and your favorite show:0.6010461035448478
+
+#8 recommendation: Ganbarist! Shun
+Similarity rate of the show above and your favorite show:0.5976602997181362
+
+#9 recommendation: Yowamushi Pedal
+Similarity rate of the show above and your favorite show:0.5862439609392405
+
+#10 recommendation: Qin Shiming Yue Zhi: Wanli Changcheng
+Similarity rate of the show above and your favorite show:0.5824398190718307
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Yuri!!! on Ice
+
+#1 recommendation: Anitore! EX
+
+#2 recommendation: Anitore! XX
+
+#3 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+
+#4 recommendation: Ganbare-bu Next!
+
+#5 recommendation: Ookiku Furikabutte
+
+#6 recommendation: Bakuhatsu Gorou
+
+#7 recommendation: Pichiko Dakyuubu
+
+#8 recommendation: Honoo no Toukyuuji: Dodge Danpei
+
+#9 recommendation: Eagle Sam
+
+#10 recommendation: Midori no Makibao
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Yuri!!! on Ice and wants to watch long anime with these genres:Sports, Comedy
+
+#1 recommendation: Slam Dunk
+Similarity rate of the show above and your favorite show:0.0039364675432791854
+
+#2 recommendation: Touch
+Similarity rate of the show above and your favorite show:0.0036872624567896276
+
+#3 recommendation: Kodomo no Omocha (TV)
+Similarity rate of the show above and your favorite show:0.00328535148438718
+
+#4 recommendation: Fairy Tail (2014)
+Similarity rate of the show above and your favorite show:0.0032784213753530656
+
+#5 recommendation: D.Gray-man
+Similarity rate of the show above and your favorite show:0.002928190435812959
+
+#6 recommendation: Gegege no Kitarou (2007)
+Similarity rate of the show above and your favorite show:0.00274842555085334
+
+#7 recommendation: Ojamanga Yamada-kun
+Similarity rate of the show above and your favorite show:0.0026934960551007413
+
+#8 recommendation: MÄR
+Similarity rate of the show above and your favorite show:0.002553659486061202
+
+#9 recommendation: Chi's Sweet Home: Atarashii Ouchi
+Similarity rate of the show above and your favorite show:0.0024221171952507926
+
+#10 recommendation: Chi's Sweet Home
+Similarity rate of the show above and your favorite show:0.0024191268086981438
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Yuri!!! on Ice
+
+#1 recommendation: Anitore! EX
+
+#2 recommendation: Anitore! XX
+
+#3 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+
+#4 recommendation: Ganbare-bu Next!
+
+#5 recommendation: Ookiku Furikabutte
+
+#6 recommendation: Bakuhatsu Gorou
+
+#7 recommendation: Pichiko Dakyuubu
+
+#8 recommendation: Honoo no Toukyuuji: Dodge Danpei
+
+#9 recommendation: Eagle Sam
+
+#10 recommendation: Midori no Makibao
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Yuri!!! on Ice and wants to watch short anime with these genres:Sports
+
+#1 recommendation: Ping Pong The Animation
+Similarity rate of the show above and your favorite show:0.955160504686273
+
+#2 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+Similarity rate of the show above and your favorite show:0.9423639874755871
+
+#3 recommendation: Boku dake ga Inai Machi
+Similarity rate of the show above and your favorite show:0.9045206935204828
+
+#4 recommendation: Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+Similarity rate of the show above and your favorite show:0.9041906421907369
+
+#5 recommendation: Shouwa Genroku Rakugo Shinjuu
+Similarity rate of the show above and your favorite show:0.9041401246624472
+
+#6 recommendation: Zoku Natsume Yuujinchou
+Similarity rate of the show above and your favorite show:0.9040497558527689
+
+#7 recommendation: Aria The Origination
+Similarity rate of the show above and your favorite show:0.9040492233676195
+
+#8 recommendation: Yojouhan Shinwa Taikei
+Similarity rate of the show above and your favorite show:0.9039192521300768
+
+#9 recommendation: Usagi Drop
+Similarity rate of the show above and your favorite show:0.9037936495263026
+
+#10 recommendation: Natsume Yuujinchou San
+Similarity rate of the show above and your favorite show:0.903564953599318
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Yuri!!! on Ice
+
+#1 recommendation: Anitore! EX
+
+#2 recommendation: Anitore! XX
+
+#3 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+
+#4 recommendation: Ganbare-bu Next!
+
+#5 recommendation: Ookiku Furikabutte
+
+#6 recommendation: Bakuhatsu Gorou
+
+#7 recommendation: Pichiko Dakyuubu
+
+#8 recommendation: Honoo no Toukyuuji: Dodge Danpei
+
+#9 recommendation: Eagle Sam
+
+#10 recommendation: Midori no Makibao
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Yuri!!! on Ice and wants to watch normal anime with these genres:Sports
+
+#1 recommendation: Tengen Toppa Gurren Lagann
+Similarity rate of the show above and your favorite show:0.7690868253676436
+
+#2 recommendation: Romeo no Aoi Sora
+Similarity rate of the show above and your favorite show:0.6635318595201325
+
+#3 recommendation: Space Cobra
+Similarity rate of the show above and your favorite show:0.6254462741284813
+
+#4 recommendation: Magic Knight Rayearth II
+Similarity rate of the show above and your favorite show:0.6060489810012178
+
+#5 recommendation: Bishoujo Senshi Sailor Moon: Sailor Stars
+Similarity rate of the show above and your favorite show:0.5986575500467074
+
+#6 recommendation: Akachan to Boku
+Similarity rate of the show above and your favorite show:0.5844687598703636
+
+#7 recommendation: Qin Shiming Yue Zhi: Wanli Changcheng
+Similarity rate of the show above and your favorite show:0.5824398190718307
+
+#8 recommendation: Ganbarist! Shun
+Similarity rate of the show above and your favorite show:0.5780666645062825
+
+#9 recommendation: Macross
+Similarity rate of the show above and your favorite show:0.5763371843864887
+
+#10 recommendation: Death Note
+Similarity rate of the show above and your favorite show:0.5759611878405609
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Yuri!!! on Ice
+
+#1 recommendation: Anitore! EX
+
+#2 recommendation: Anitore! XX
+
+#3 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+
+#4 recommendation: Ganbare-bu Next!
+
+#5 recommendation: Ookiku Furikabutte
+
+#6 recommendation: Bakuhatsu Gorou
+
+#7 recommendation: Pichiko Dakyuubu
+
+#8 recommendation: Honoo no Toukyuuji: Dodge Danpei
+
+#9 recommendation: Eagle Sam
+
+#10 recommendation: Midori no Makibao
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Yuri!!! on Ice and wants to watch long anime with these genres:Sports
+
+#1 recommendation: Slam Dunk
+Similarity rate of the show above and your favorite show:0.0038277752453753653
+
+#2 recommendation: Touch
+Similarity rate of the show above and your favorite show:0.0036872624567896276
+
+#3 recommendation: Fairy Tail (2014)
+Similarity rate of the show above and your favorite show:0.0031797623553645187
+
+#4 recommendation: Kodomo no Omocha (TV)
+Similarity rate of the show above and your favorite show:0.003144716185456434
+
+#5 recommendation: D.Gray-man
+Similarity rate of the show above and your favorite show:0.002802844049216662
+
+#6 recommendation: Gegege no Kitarou (2007)
+Similarity rate of the show above and your favorite show:0.0025998991744150077
+
+#7 recommendation: Ojamanga Yamada-kun
+Similarity rate of the show above and your favorite show:0.0024988734205713676
+
+#8 recommendation: MÄR
+Similarity rate of the show above and your favorite show:0.00246336283609004
+
+#9 recommendation: Doubutsu Mura Monogatari
+Similarity rate of the show above and your favorite show:0.002359747602451425
+
+#10 recommendation: Chi's Sweet Home: Atarashii Ouchi
+Similarity rate of the show above and your favorite show:0.0022912246956493846
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Yuri!!! on Ice
+
+#1 recommendation: Anitore! EX
+
+#2 recommendation: Anitore! XX
+
+#3 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+
+#4 recommendation: Ganbare-bu Next!
+
+#5 recommendation: Ookiku Furikabutte
+
+#6 recommendation: Bakuhatsu Gorou
+
+#7 recommendation: Pichiko Dakyuubu
+
+#8 recommendation: Honoo no Toukyuuji: Dodge Danpei
+
+#9 recommendation: Eagle Sam
+
+#10 recommendation: Midori no Makibao
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Kuroko no Basket and wants to watch short anime with these genres:Shounen, Sports, School
+
+#1 recommendation: Kuroko no Basket 2nd Season
+Similarity rate of the show above and your favorite show:0.9916177198729293
+
+#2 recommendation: Kuroko no Basket 3rd Season
+Similarity rate of the show above and your favorite show:0.9896637411039841
+
+#3 recommendation: Major S3
+Similarity rate of the show above and your favorite show:0.9875464828135189
+
+#4 recommendation: Shokugeki no Souma
+Similarity rate of the show above and your favorite show:0.9848549848893142
+
+#5 recommendation: Baby Steps 2nd Season
+Similarity rate of the show above and your favorite show:0.97853306225942
+
+#6 recommendation: Haikyuu!!
+Similarity rate of the show above and your favorite show:0.9750332909530223
+
+#7 recommendation: Major S1
+Similarity rate of the show above and your favorite show:0.974451041409015
+
+#8 recommendation: Major S2
+Similarity rate of the show above and your favorite show:0.9742076539392316
+
+#9 recommendation: Major S4
+Similarity rate of the show above and your favorite show:0.971931839453048
+
+#10 recommendation: Yowamushi Pedal: Grande Road
+Similarity rate of the show above and your favorite show:0.9675251070264218
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Kuroko no Basket
+
+#1 recommendation: Kuroko no Basket
+
+#2 recommendation: Kuroko no Basket 2nd Season
+
+#3 recommendation: Area no Kishi
+
+#4 recommendation: Teekyuu 2
+
+#5 recommendation: Teekyuu
+
+#6 recommendation: Teekyuu 3
+
+#7 recommendation: Diamond no Ace: Second Season
+
+#8 recommendation: Diamond no Ace
+
+#9 recommendation: Haikyuu!! Second Season
+
+#10 recommendation: Haikyuu!!
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Dragon Ball and wants to watch long anime with these genres:Adventure, Super Power
+
+#1 recommendation: D.Gray-man
+Similarity rate of the show above and your favorite show:0.9304975563008139
+
+#2 recommendation: Fairy Tail
+Similarity rate of the show above and your favorite show:0.9303434115256529
+
+#3 recommendation: Katekyo Hitman Reborn!
+Similarity rate of the show above and your favorite show:0.9297515964305523
+
+#4 recommendation: Saint Seiya
+Similarity rate of the show above and your favorite show:0.9253480176222375
+
+#5 recommendation: Fairy Tail (2014)
+Similarity rate of the show above and your favorite show:0.915026653561416
+
+#6 recommendation: Lupin III: Part II
+Similarity rate of the show above and your favorite show:0.9078298830117446
+
+#7 recommendation: Naruto
+Similarity rate of the show above and your favorite show:0.9028987580778793
+
+#8 recommendation: Ginga Tetsudou 999
+Similarity rate of the show above and your favorite show:0.897070784994096
+
+#9 recommendation: Saiki Kusuo no Ψ-nan (TV)
+Similarity rate of the show above and your favorite show:0.894253221936525
+
+#10 recommendation: Yuu☆Yuu☆Hakusho
+Similarity rate of the show above and your favorite show:0.8895504975612072
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Dragon Ball
+
+#1 recommendation: Kekkaishi
+
+#2 recommendation: Samurai Girl Real Bout High School
+
+#3 recommendation: Yadamon
+
+#4 recommendation: Dragon Ball Kai
+
+#5 recommendation: Kyoro-chan
+
+#6 recommendation: Naruto
+
+#7 recommendation: Dragon Ball Kai (2014)
+
+#8 recommendation: Kenyuu Densetsu Yaiba
+
+#9 recommendation: Groove Adventure Rave
+
+#10 recommendation: Kiba
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Macross and wants to watch normal anime with these genres:Music, Romance, Sci-Fi
+
+#1 recommendation: Trapp Ikka Monogatari
+Similarity rate of the show above and your favorite show:0.9494426099936827
+
+#2 recommendation: Eureka Seven
+Similarity rate of the show above and your favorite show:0.9483682936219305
+
+#3 recommendation: Hanasakeru Seishounen
+Similarity rate of the show above and your favorite show:0.9475224343525813
+
+#4 recommendation: Ginga Sengoku Gunyuuden Rai
+Similarity rate of the show above and your favorite show:0.9454879245897017
+
+#5 recommendation: Princess Tutu
+Similarity rate of the show above and your favorite show:0.9415384214308523
+
+#6 recommendation: Full Moon wo Sagashite
+Similarity rate of the show above and your favorite show:0.937453408601564
+
+#7 recommendation: Bishoujo Senshi Sailor Moon S
+Similarity rate of the show above and your favorite show:0.9360054957674995
+
+#8 recommendation: Kyou kara Maou! 3rd Series
+Similarity rate of the show above and your favorite show:0.9336346638721134
+
+#9 recommendation: Saiunkoku Monogatari
+Similarity rate of the show above and your favorite show:0.9316344661885338
+
+#10 recommendation: Saiunkoku Monogatari 2nd Season
+Similarity rate of the show above and your favorite show:0.930383544057263
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Macross
+
+#1 recommendation: Macross Δ
+
+#2 recommendation: Macross F
+
+#3 recommendation: Mobile Suit Gundam
+
+#4 recommendation: Heroic Age
+
+#5 recommendation: Captain Earth
+
+#6 recommendation: Mobile Suit Gundam Seed
+
+#7 recommendation: Mobile Suit Gundam Seed Destiny
+
+#8 recommendation: Seikai no Senki
+
+#9 recommendation: Seikai no Monshou
+
+#10 recommendation: Megami Kouhosei
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Suzumiya Haruhi no Yuuutsu and wants to watch short anime with these genres:School, Slice of Life
+
+#1 recommendation: Love Live! School Idol Project 2nd Season
+Similarity rate of the show above and your favorite show:0.9884455946339109
+
+#2 recommendation: Tanaka-kun wa Itsumo Kedaruge
+Similarity rate of the show above and your favorite show:0.9866292696446417
+
+#3 recommendation: Hidamari Sketch x ☆☆☆
+Similarity rate of the show above and your favorite show:0.9864207143160139
+
+#4 recommendation: Hidamari Sketch x Honeycomb
+Similarity rate of the show above and your favorite show:0.9859408772113127
+
+#5 recommendation: Hidamari Sketch x 365
+Similarity rate of the show above and your favorite show:0.9833378980988386
+
+#6 recommendation: ReLIFE
+Similarity rate of the show above and your favorite show:0.9769973735799687
+
+#7 recommendation: Minami-ke
+Similarity rate of the show above and your favorite show:0.9761428503722603
+
+#8 recommendation: Ocha-ken: Ryokutto Monogatari
+Similarity rate of the show above and your favorite show:0.9740858426538741
+
+#9 recommendation: Working'!!
+Similarity rate of the show above and your favorite show:0.9735323295842264
+
+#10 recommendation: Non Non Biyori
+Similarity rate of the show above and your favorite show:0.973311779165077
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Suzumiya Haruhi no Yuuutsu
+
+#1 recommendation: Suzumiya Haruhi no Yuuutsu (2009)
+
+#2 recommendation: Lucky☆Star
+
+#3 recommendation: Minami-ke Tadaima
+
+#4 recommendation: Genshiken Nidaime
+
+#5 recommendation: Mitsudomoe
+
+#6 recommendation: Minami-ke Okaeri
+
+#7 recommendation: Wakaba*Girl
+
+#8 recommendation: Morita-san wa Mukuchi. 2
+
+#9 recommendation: Zoku Sayonara Zetsubou Sensei
+
+#10 recommendation: NieA Under 7
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Owarimonogatari and wants to watch short anime with these genres:Mystery, Supernatural
+
+#1 recommendation: Bungou Stray Dogs 2nd Season
+Similarity rate of the show above and your favorite show:0.9885528478685045
+
+#2 recommendation: Durarara!!x2 Ketsu
+Similarity rate of the show above and your favorite show:0.9806144832295633
+
+#3 recommendation: Nisemonogatari
+Similarity rate of the show above and your favorite show:0.9785214642106701
+
+#4 recommendation: Durarara!!x2 Shou
+Similarity rate of the show above and your favorite show:0.9729419541910002
+
+#5 recommendation: Durarara!!x2 Ten
+Similarity rate of the show above and your favorite show:0.9694324516538458
+
+#6 recommendation: Bakemonogatari
+Similarity rate of the show above and your favorite show:0.9690776113754868
+
+#7 recommendation: Boku dake ga Inai Machi
+Similarity rate of the show above and your favorite show:0.9662319342704255
+
+#8 recommendation: ef: A Tale of Melodies.
+Similarity rate of the show above and your favorite show:0.9626179364018019
+
+#9 recommendation: xxxHOLiC Kei
+Similarity rate of the show above and your favorite show:0.9621944349133383
+
+#10 recommendation: Baccano!
+Similarity rate of the show above and your favorite show:0.9534926810124105
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Owarimonogatari
+
+#1 recommendation: Nisemonogatari
+
+#2 recommendation: Hanamonogatari
+
+#3 recommendation: Tsukimonogatari
+
+#4 recommendation: Inu to Hasami wa Tsukaiyou
+
+#5 recommendation: Kiitarou Shounen no Youkai Enikki
+
+#6 recommendation: Nyanpire The Animation
+
+#7 recommendation: Vampire Holmes
+
+#8 recommendation: Haitai Nanafa 2nd Season
+
+#9 recommendation: Ryuugajou Nanana no Maizoukin (TV)
+
+#10 recommendation: Fukigen na Mononokean
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Natsume Yuujinchou and wants to watch short anime with these genres:Drama, Fantasy
+
+#1 recommendation: Tokyo Magnitude 8.0
+Similarity rate of the show above and your favorite show:0.9866774760803351
+
+#2 recommendation: Talpy
+Similarity rate of the show above and your favorite show:0.9686848114585911
+
+#3 recommendation: Akagami no Shirayuki-hime 2nd Season
+Similarity rate of the show above and your favorite show:0.9588763086028673
+
+#4 recommendation: Zoku Natsume Yuujinchou
+Similarity rate of the show above and your favorite show:0.9558622407002729
+
+#5 recommendation: Hachimitsu to Clover II
+Similarity rate of the show above and your favorite show:0.955350695567542
+
+#6 recommendation: Natsume Yuujinchou San
+Similarity rate of the show above and your favorite show:0.9532425687250015
+
+#7 recommendation: Shouwa Genroku Rakugo Shinjuu
+Similarity rate of the show above and your favorite show:0.951363209635246
+
+#8 recommendation: Hibike! Euphonium 2
+Similarity rate of the show above and your favorite show:0.9506039367828608
+
+#9 recommendation: Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+Similarity rate of the show above and your favorite show:0.9470939361172473
+
+#10 recommendation: Fate/Zero
+Similarity rate of the show above and your favorite show:0.9447179057892224
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Natsume Yuujinchou
+
+#1 recommendation: Natsume Yuujinchou Go
+
+#2 recommendation: Natsume Yuujinchou San
+
+#3 recommendation: Zoku Natsume Yuujinchou
+
+#4 recommendation: Natsume Yuujinchou Shi
+
+#5 recommendation: Ginyuu Mokushiroku Meine Liebe Wieder
+
+#6 recommendation: Fuujin Monogatari
+
+#7 recommendation: Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+
+#8 recommendation: Clannad: After Story
+
+#9 recommendation: Shoukoushi Cedie
+
+#10 recommendation: Candy Candy
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Ouran Koukou Host Club and wants to watch short anime with these genres:Harem, Romance, School
+
+#1 recommendation: Toradora!
+Similarity rate of the show above and your favorite show:0.9742693894916198
+
+#2 recommendation: Kaichou wa Maid-sama!
+Similarity rate of the show above and your favorite show:0.9723829126901936
+
+#3 recommendation: Baby Steps 2nd Season
+Similarity rate of the show above and your favorite show:0.9681392604090331
+
+#4 recommendation: Kimi ni Todoke
+Similarity rate of the show above and your favorite show:0.968071415586974
+
+#5 recommendation: School Rumble Ni Gakki
+Similarity rate of the show above and your favorite show:0.9641341821079566
+
+#6 recommendation: Sakurasou no Pet na Kanojo
+Similarity rate of the show above and your favorite show:0.9640103528326222
+
+#7 recommendation: ReLIFE
+Similarity rate of the show above and your favorite show:0.9622241992548778
+
+#8 recommendation: Gekkan Shoujo Nozaki-kun
+Similarity rate of the show above and your favorite show:0.9566146913695546
+
+#9 recommendation: Bakuman.
+Similarity rate of the show above and your favorite show:0.9561061567800805
+
+#10 recommendation: Nagi no Asukara
+Similarity rate of the show above and your favorite show:0.9556575461356597
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Ouran Koukou Host Club
+
+#1 recommendation: Watashi ga Motete Dousunda
+
+#2 recommendation: Kaichou wa Maid-sama!
+
+#3 recommendation: Tokimeki Memorial: Only Love
+
+#4 recommendation: Special A
+
+#5 recommendation: Uta no☆Prince-sama♪ Maji Love 1000%
+
+#6 recommendation: Uta no☆Prince-sama♪ Maji Love Revolutions
+
+#7 recommendation: Kanojo ga Flag wo Oraretara
+
+#8 recommendation: Uta no☆Prince-sama♪ Maji Love 2000%
+
+#9 recommendation: Ore no Kanojo to Osananajimi ga Shuraba Sugiru
+
+#10 recommendation: Hatsukoi Monster
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Nagi no Asukara and wants to watch short anime with these genres:Drama, Romance
+
+#1 recommendation: Skip Beat!
+Similarity rate of the show above and your favorite show:0.9748417254884172
+
+#2 recommendation: NHK ni Youkoso!
+Similarity rate of the show above and your favorite show:0.9735586397534636
+
+#3 recommendation: Gosick
+Similarity rate of the show above and your favorite show:0.9732136210963744
+
+#4 recommendation: Hachimitsu to Clover
+Similarity rate of the show above and your favorite show:0.9707867827968566
+
+#5 recommendation: Kanon (2006)
+Similarity rate of the show above and your favorite show:0.9702175784317321
+
+#6 recommendation: Shirobako
+Similarity rate of the show above and your favorite show:0.9688455063477208
+
+#7 recommendation: Bakuman. 2nd Season
+Similarity rate of the show above and your favorite show:0.9667792770175543
+
+#8 recommendation: Tokyo Magnitude 8.0
+Similarity rate of the show above and your favorite show:0.9639290297542099
+
+#9 recommendation: Planetes
+Similarity rate of the show above and your favorite show:0.9639260595740369
+
+#10 recommendation: Sakurasou no Pet na Kanojo
+Similarity rate of the show above and your favorite show:0.9627138150577328
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Nagi no Asukara
+
+#1 recommendation: Ningyohime Marina no Bouken
+
+#2 recommendation: Winter Sonata
+
+#3 recommendation: Romeo x Juliet
+
+#4 recommendation: Sister Princess: Re Pure
+
+#5 recommendation: Akagami no Shirayuki-hime 2nd Season
+
+#6 recommendation: Akagami no Shirayuki-hime
+
+#7 recommendation: Kemono no Souja Erin
+
+#8 recommendation: Touka Gettan
+
+#9 recommendation: Tenshi ni Narumon!
+
+#10 recommendation: Suzuka
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Nagi no Asukara and wants to watch short anime with these genres:Romance
+
+#1 recommendation: Bakuman.
+Similarity rate of the show above and your favorite show:0.9562245941164897
+
+#2 recommendation: Lovely★Complex
+Similarity rate of the show above and your favorite show:0.9543272276535556
+
+#3 recommendation: Ore Monogatari!!
+Similarity rate of the show above and your favorite show:0.9474562242418091
+
+#4 recommendation: Skip Beat!
+Similarity rate of the show above and your favorite show:0.9448489986976389
+
+#5 recommendation: Kaichou wa Maid-sama!
+Similarity rate of the show above and your favorite show:0.9447282074693087
+
+#6 recommendation: NHK ni Youkoso!
+Similarity rate of the show above and your favorite show:0.9436053893606394
+
+#7 recommendation: Gosick
+Similarity rate of the show above and your favorite show:0.9432709858116742
+
+#8 recommendation: Baby Steps 2nd Season
+Similarity rate of the show above and your favorite show:0.9423199192785402
+
+#9 recommendation: Kimi ni Todoke
+Similarity rate of the show above and your favorite show:0.9422806178189452
+
+#10 recommendation: Toradora!
+Similarity rate of the show above and your favorite show:0.9417272988397909
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Nagi no Asukara
+
+#1 recommendation: Ningyohime Marina no Bouken
+
+#2 recommendation: Winter Sonata
+
+#3 recommendation: Romeo x Juliet
+
+#4 recommendation: Sister Princess: Re Pure
+
+#5 recommendation: Akagami no Shirayuki-hime 2nd Season
+
+#6 recommendation: Akagami no Shirayuki-hime
+
+#7 recommendation: Kemono no Souja Erin
+
+#8 recommendation: Touka Gettan
+
+#9 recommendation: Tenshi ni Narumon!
+
+#10 recommendation: Suzuka
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Nagi no Asukara and wants to watch short anime with these genres:Fantasy, Romance
+
+#1 recommendation: Bakuman.
+Similarity rate of the show above and your favorite show:0.9562245941164897
+
+#2 recommendation: Akatsuki no Yona
+Similarity rate of the show above and your favorite show:0.9547223044940687
+
+#3 recommendation: Lovely★Complex
+Similarity rate of the show above and your favorite show:0.9543272276535556
+
+#4 recommendation: Ookami to Koushinryou
+Similarity rate of the show above and your favorite show:0.9507982338869304
+
+#5 recommendation: Ore Monogatari!!
+Similarity rate of the show above and your favorite show:0.9474562242418091
+
+#6 recommendation: Talpy
+Similarity rate of the show above and your favorite show:0.9464339370717796
+
+#7 recommendation: Kobato.
+Similarity rate of the show above and your favorite show:0.9456733510600566
+
+#8 recommendation: Aria The Natural
+Similarity rate of the show above and your favorite show:0.945203986549509
+
+#9 recommendation: Skip Beat!
+Similarity rate of the show above and your favorite show:0.9448489986976389
+
+#10 recommendation: Kaichou wa Maid-sama!
+Similarity rate of the show above and your favorite show:0.9447282074693087
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Nagi no Asukara
+
+#1 recommendation: Ningyohime Marina no Bouken
+
+#2 recommendation: Winter Sonata
+
+#3 recommendation: Romeo x Juliet
+
+#4 recommendation: Sister Princess: Re Pure
+
+#5 recommendation: Akagami no Shirayuki-hime 2nd Season
+
+#6 recommendation: Akagami no Shirayuki-hime
+
+#7 recommendation: Kemono no Souja Erin
+
+#8 recommendation: Touka Gettan
+
+#9 recommendation: Tenshi ni Narumon!
+
+#10 recommendation: Suzuka
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Clannad and wants to watch short anime with these genres:Slice of Life
+
+#1 recommendation: Hyouka
+Similarity rate of the show above and your favorite show:0.9526299933252349
+
+#2 recommendation: Warera Salaryman Tou
+Similarity rate of the show above and your favorite show:0.9521646644853756
+
+#3 recommendation: Barakamon
+Similarity rate of the show above and your favorite show:0.9473038689373299
+
+#4 recommendation: Nichijou
+Similarity rate of the show above and your favorite show:0.9469251540667579
+
+#5 recommendation: Aria The Natural
+Similarity rate of the show above and your favorite show:0.9431480900656383
+
+#6 recommendation: Toradora!
+Similarity rate of the show above and your favorite show:0.9417207758251266
+
+#7 recommendation: Kimi ni Todoke
+Similarity rate of the show above and your favorite show:0.9407996069060676
+
+#8 recommendation: Azumanga Daioh
+Similarity rate of the show above and your favorite show:0.9404832945596161
+
+#9 recommendation: Kanon (2006)
+Similarity rate of the show above and your favorite show:0.9395520490012028
+
+#10 recommendation: Usagi Drop
+Similarity rate of the show above and your favorite show:0.9393807503567736
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Clannad
+
+#1 recommendation: Kokoro Connect
+
+#2 recommendation: Little Busters!: Refrain
+
+#3 recommendation: Sakurasou no Pet na Kanojo
+
+#4 recommendation: Little Busters!
+
+#5 recommendation: I My Me! Strawberry Eggs
+
+#6 recommendation: Inou-Battle wa Nichijou-kei no Naka de
+
+#7 recommendation: Chuunibyou demo Koi ga Shitai! Ren
+
+#8 recommendation: Chuunibyou demo Koi ga Shitai!
+
+#9 recommendation: Canvas 2: Niji-iro no Sketch
+
+#10 recommendation: Toradora!
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Kaichou wa Maid-sama! and wants to watch short anime with these genres:Shoujo, Comedy
+
+#1 recommendation: Lovely★Complex
+Similarity rate of the show above and your favorite show:0.9880745475573416
+
+#2 recommendation: Ore Monogatari!!
+Similarity rate of the show above and your favorite show:0.9835274538666714
+
+#3 recommendation: Osomatsu-san
+Similarity rate of the show above and your favorite show:0.9751336602011784
+
+#4 recommendation: Skip Beat!
+Similarity rate of the show above and your favorite show:0.9751199226149413
+
+#5 recommendation: Yamato Nadeshiko Shichihenge♥
+Similarity rate of the show above and your favorite show:0.9716939620135832
+
+#6 recommendation: Ookiku Furikabutte
+Similarity rate of the show above and your favorite show:0.9703222627766805
+
+#7 recommendation: Shirobako
+Similarity rate of the show above and your favorite show:0.9645718064764341
+
+#8 recommendation: Ouran Koukou Host Club
+Similarity rate of the show above and your favorite show:0.9617453147017678
+
+#9 recommendation: Akatsuki no Yona
+Similarity rate of the show above and your favorite show:0.9558382627945105
+
+#10 recommendation: Bakuman.
+Similarity rate of the show above and your favorite show:0.95503018235699
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Kaichou wa Maid-sama!
+
+#1 recommendation: Special A
+
+#2 recommendation: Hatsukoi Monster
+
+#3 recommendation: Ookami Shoujo to Kuro Ouji
+
+#4 recommendation: Gokujou!! Mecha Mote Iinchou Second Collection
+
+#5 recommendation: Gokujou!! Mecha Mote Iinchou
+
+#6 recommendation: Ouran Koukou Host Club
+
+#7 recommendation: Ultra Maniac
+
+#8 recommendation: Itazura na Kiss
+
+#9 recommendation: Lovely★Complex
+
+#10 recommendation: Ore Monogatari!!
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Diamond no Ace and wants to watch normal anime with these genres:Sports, Shounen, School
+
+#1 recommendation: SKET Dance
+Similarity rate of the show above and your favorite show:0.9867951361781176
+
+#2 recommendation: Ashita no Joe
+Similarity rate of the show above and your favorite show:0.9748616568670585
+
+#3 recommendation: Diamond no Ace: Second Season
+Similarity rate of the show above and your favorite show:0.9721741917096373
+
+#4 recommendation: Yakitate!! Japan
+Similarity rate of the show above and your favorite show:0.9662427097490405
+
+#5 recommendation: Capeta
+Similarity rate of the show above and your favorite show:0.9582394690493568
+
+#6 recommendation: Shijou Saikyou no Deshi Kenichi
+Similarity rate of the show above and your favorite show:0.9539544689778447
+
+#7 recommendation: Ashita no Joe 2
+Similarity rate of the show above and your favorite show:0.9522620658892086
+
+#8 recommendation: Yowamushi Pedal
+Similarity rate of the show above and your favorite show:0.9502072628354082
+
+#9 recommendation: Beelzebub
+Similarity rate of the show above and your favorite show:0.9474266365709567
+
+#10 recommendation: Hikaru no Go
+Similarity rate of the show above and your favorite show:0.9444727912742368
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Diamond no Ace
+
+#1 recommendation: Diamond no Ace: Second Season
+
+#2 recommendation: Area no Kishi
+
+#3 recommendation: Kuroko no Basket 2nd Season
+
+#4 recommendation: Kuroko no Basket 3rd Season
+
+#5 recommendation: Kuroko no Basket
+
+#6 recommendation: Teekyuu 2
+
+#7 recommendation: Teekyuu
+
+#8 recommendation: Teekyuu 3
+
+#9 recommendation: SKET Dance
+
+#10 recommendation: Slam Dunk
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Gekkan Shoujo Nozaki-kun and wants to watch short anime with these genres:Comedy, Romance, School
+
+#1 recommendation: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
+Similarity rate of the show above and your favorite show:0.9922165487151172
+
+#2 recommendation: Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+Similarity rate of the show above and your favorite show:0.990080005537563
+
+#3 recommendation: Full Metal Panic? Fumoffu
+Similarity rate of the show above and your favorite show:0.9887132980727301
+
+#4 recommendation: Working!!!
+Similarity rate of the show above and your favorite show:0.9874379145199447
+
+#5 recommendation: ReLIFE
+Similarity rate of the show above and your favorite show:0.9872139287749945
+
+#6 recommendation: Tanaka-kun wa Itsumo Kedaruge
+Similarity rate of the show above and your favorite show:0.984845601235722
+
+#7 recommendation: Sayonara Zetsubou Sensei
+Similarity rate of the show above and your favorite show:0.9799987262031079
+
+#8 recommendation: Baka to Test to Shoukanjuu Ni!
+Similarity rate of the show above and your favorite show:0.9792771863077944
+
+#9 recommendation: Zoku Sayonara Zetsubou Sensei
+Similarity rate of the show above and your favorite show:0.9792204093537066
+
+#10 recommendation: Hidamari Sketch x ☆☆☆
+Similarity rate of the show above and your favorite show:0.9781341681479826
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Gekkan Shoujo Nozaki-kun
+
+#1 recommendation: Kujibiki♥Unbalance
+
+#2 recommendation: Kono Bijutsubu ni wa Mondai ga Aru!
+
+#3 recommendation: Futakoi
+
+#4 recommendation: Love Lab
+
+#5 recommendation: Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru
+
+#6 recommendation: Mamoru-kun ni Megami no Shukufuku wo!
+
+#7 recommendation: Bokura wa Minna Kawaisou
+
+#8 recommendation: Hatsukoi Limited
+
+#9 recommendation: Nogizaka Haruka no Himitsu
+
+#10 recommendation: Kotoura-san
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Fairy Tail and wants to watch long anime with these genres:Action, Fantasy
+
+#1 recommendation: Katekyo Hitman Reborn!
+Similarity rate of the show above and your favorite show:0.9403694020599715
+
+#2 recommendation: Fairy Tail (2014)
+Similarity rate of the show above and your favorite show:0.9355967951087539
+
+#3 recommendation: Yuu☆Yuu☆Hakusho
+Similarity rate of the show above and your favorite show:0.9321736292555558
+
+#4 recommendation: Dragon Ball
+Similarity rate of the show above and your favorite show:0.9307967598408469
+
+#5 recommendation: Eyeshield 21
+Similarity rate of the show above and your favorite show:0.9294374210192213
+
+#6 recommendation: D.Gray-man
+Similarity rate of the show above and your favorite show:0.9268719590682244
+
+#7 recommendation: Saint Seiya
+Similarity rate of the show above and your favorite show:0.9218941119319648
+
+#8 recommendation: Prince of Tennis
+Similarity rate of the show above and your favorite show:0.9198742079698186
+
+#9 recommendation: Naruto
+Similarity rate of the show above and your favorite show:0.9125662723790965
+
+#10 recommendation: Lupin III: Part II
+Similarity rate of the show above and your favorite show:0.9097081561385297
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Fairy Tail
+
+#1 recommendation: Fairy Tail (2014)
+
+#2 recommendation: Toriko
+
+#3 recommendation: MÄR
+
+#4 recommendation: Digimon Xros Wars
+
+#5 recommendation: Magi: The Kingdom of Magic
+
+#6 recommendation: Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi
+
+#7 recommendation: Magi: The Labyrinth of Magic
+
+#8 recommendation: Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku
+
+#9 recommendation: Densetsu no Yuusha no Densetsu
+
+#10 recommendation: Magi: Sinbad no Bouken (TV)
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Hachimitsu to Clover and wants to watch short anime with these genres:Romance
+
+#1 recommendation: Lovely★Complex
+Similarity rate of the show above and your favorite show:0.9560525025585356
+
+#2 recommendation: Ore Monogatari!!
+Similarity rate of the show above and your favorite show:0.9556181748114516
+
+#3 recommendation: Nagi no Asukara
+Similarity rate of the show above and your favorite show:0.9519949080530101
+
+#4 recommendation: Bakuman.
+Similarity rate of the show above and your favorite show:0.9507497296240539
+
+#5 recommendation: Golden Time
+Similarity rate of the show above and your favorite show:0.9453925230297745
+
+#6 recommendation: Kanon (2006)
+Similarity rate of the show above and your favorite show:0.9452840628970155
+
+#7 recommendation: Baby Steps 2nd Season
+Similarity rate of the show above and your favorite show:0.9450653058929681
+
+#8 recommendation: Kimi ni Todoke
+Similarity rate of the show above and your favorite show:0.9450551332647646
+
+#9 recommendation: Igano Kabamaru
+Similarity rate of the show above and your favorite show:0.9448264529742353
+
+#10 recommendation: Gosick
+Similarity rate of the show above and your favorite show:0.9447464220047364
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Hachimitsu to Clover
+
+#1 recommendation: Chocotto Sister
+
+#2 recommendation: Futakoi Alternative
+
+#3 recommendation: Paradise Kiss
+
+#4 recommendation: Rec
+
+#5 recommendation: Hanbun no Tsuki ga Noboru Sora
+
+#6 recommendation: NHK ni Youkoso!
+
+#7 recommendation: Canvas 2: Niji-iro no Sketch
+
+#8 recommendation: Shirobako
+
+#9 recommendation: Major S5
+
+#10 recommendation: Nodame Cantabile
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Working!!! and wants to watch short anime with these genres:Comedy
+
+#1 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+Similarity rate of the show above and your favorite show:0.9752318903562789
+
+#2 recommendation: Gochuumon wa Usagi Desu ka??
+Similarity rate of the show above and your favorite show:0.9691710068771471
+
+#3 recommendation: Working'!!
+Similarity rate of the show above and your favorite show:0.9675385595890321
+
+#4 recommendation: Full Metal Panic? Fumoffu
+Similarity rate of the show above and your favorite show:0.9557891263241113
+
+#5 recommendation: Gekkan Shoujo Nozaki-kun
+Similarity rate of the show above and your favorite show:0.955163966641339
+
+#6 recommendation: Space☆Dandy 2nd Season
+Similarity rate of the show above and your favorite show:0.9549804170251834
+
+#7 recommendation: Tanaka-kun wa Itsumo Kedaruge
+Similarity rate of the show above and your favorite show:0.9547507098146275
+
+#8 recommendation: Nisemonogatari
+Similarity rate of the show above and your favorite show:0.9540530535907592
+
+#9 recommendation: Kuragehime
+Similarity rate of the show above and your favorite show:0.9535259637693602
+
+#10 recommendation: Barakamon
+Similarity rate of the show above and your favorite show:0.9532750472284072
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Working!!!
+
+#1 recommendation: Working!!!
+
+#2 recommendation: Papa no Iukoto wo Kikinasai!
+
+#3 recommendation: Koume-chan ga Iku!
+
+#4 recommendation: Happy☆Lesson: Advance
+
+#5 recommendation: Amagami SS+ Plus
+
+#6 recommendation: Working'!!
+
+#7 recommendation: Joshiraku
+
+#8 recommendation: Sensei no Ojikan: Doki Doki School Hours
+
+#9 recommendation: Sore ga Seiyuu!
+
+#10 recommendation: WWW.Working!!
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Junjou Romantica 3 and wants to watch short anime with these genres:Comedy, Shounen Ai, Romance, Drama
+
+#1 recommendation: Sekaiichi Hatsukoi
+Similarity rate of the show above and your favorite show:0.9999892160581472
+
+#2 recommendation: Tokyo Magnitude 8.0
+Similarity rate of the show above and your favorite show:0.9991096761292565
+
+#3 recommendation: Junjou Romantica
+Similarity rate of the show above and your favorite show:0.998817530668472
+
+#4 recommendation: Junjou Romantica 2
+Similarity rate of the show above and your favorite show:0.9987208188505865
+
+#5 recommendation: Sekaiichi Hatsukoi 2
+Similarity rate of the show above and your favorite show:0.9955130953688668
+
+#6 recommendation: Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+Similarity rate of the show above and your favorite show:0.9927848109188265
+
+#7 recommendation: ef: A Tale of Memories.
+Similarity rate of the show above and your favorite show:0.9886339757982077
+
+#8 recommendation: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
+Similarity rate of the show above and your favorite show:0.9886059401839008
+
+#9 recommendation: Working!!!
+Similarity rate of the show above and your favorite show:0.9881851929368903
+
+#10 recommendation: Gekkan Shoujo Nozaki-kun
+Similarity rate of the show above and your favorite show:0.9875368839083566
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Junjou Romantica 3
+
+#1 recommendation: Junjou Romantica 3
+
+#2 recommendation: Sekaiichi Hatsukoi
+
+#3 recommendation: Junjou Romantica
+
+#4 recommendation: Junjou Romantica 2
+
+#5 recommendation: Futakoi Alternative
+
+#6 recommendation: Gakuen Heaven
+
+#7 recommendation: Love Stage!!
+
+#8 recommendation: Super Lovers
+
+#9 recommendation: Rec
+
+#10 recommendation: Hanbun no Tsuki ga Noboru Sora
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes K-On!! and wants to watch short anime with these genres:Music, Slice of Life, School
+
+#1 recommendation: Azumanga Daioh
+Similarity rate of the show above and your favorite show:0.9877364181155551
+
+#2 recommendation: Hyouka
+Similarity rate of the show above and your favorite show:0.9858556802409768
+
+#3 recommendation: Jungle wa Itsumo Hare nochi Guu
+Similarity rate of the show above and your favorite show:0.9830639194156384
+
+#4 recommendation: Kimi ni Todoke
+Similarity rate of the show above and your favorite show:0.9745325557046993
+
+#5 recommendation: Love Live! School Idol Project 2nd Season
+Similarity rate of the show above and your favorite show:0.973976981086784
+
+#6 recommendation: Hibike! Euphonium
+Similarity rate of the show above and your favorite show:0.9623152915579889
+
+#7 recommendation: Hibike! Euphonium 2
+Similarity rate of the show above and your favorite show:0.9623092491992432
+
+#8 recommendation: Lucky☆Star
+Similarity rate of the show above and your favorite show:0.9604522564578378
+
+#9 recommendation: Tanaka-kun wa Itsumo Kedaruge
+Similarity rate of the show above and your favorite show:0.9603419135796643
+
+#10 recommendation: ReLIFE
+Similarity rate of the show above and your favorite show:0.9594649754573933
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes K-On!!
+
+#1 recommendation: K-On!
+
+#2 recommendation: Azumanga Daioh
+
+#3 recommendation: Gokujou Seitokai
+
+#4 recommendation: Akane-chan
+
+#5 recommendation: Nichijou
+
+#6 recommendation: Jungle wa Itsumo Hare nochi Guu
+
+#7 recommendation: Yoiko
+
+#8 recommendation: Minami-ke
+
+#9 recommendation: Pan de Peace!
+
+#10 recommendation: Hyakko
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Yume-iro Pâtissière and wants to watch short anime with these genres:Shoujo
+
+#1 recommendation: Yamato Nadeshiko Shichihenge♥
+Similarity rate of the show above and your favorite show:0.9450717617611303
+
+#2 recommendation: Ore Monogatari!!
+Similarity rate of the show above and your favorite show:0.9306952667938838
+
+#3 recommendation: Lovely★Complex
+Similarity rate of the show above and your favorite show:0.926253201984535
+
+#4 recommendation: Kimi ni Todoke
+Similarity rate of the show above and your favorite show:0.918877291941639
+
+#5 recommendation: Kaichou wa Maid-sama!
+Similarity rate of the show above and your favorite show:0.9165718588936578
+
+#6 recommendation: Itazura na Kiss
+Similarity rate of the show above and your favorite show:0.9154842438524595
+
+#7 recommendation: Skip Beat!
+Similarity rate of the show above and your favorite show:0.9137278618583919
+
+#8 recommendation: Ghost Hunt
+Similarity rate of the show above and your favorite show:0.9133033100650356
+
+#9 recommendation: Yume-iro Pâtissière SP Professional
+Similarity rate of the show above and your favorite show:0.9118497812648062
+
+#10 recommendation: Gakuen Alice
+Similarity rate of the show above and your favorite show:0.9107552041254906
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Yume-iro Pâtissière
+
+#1 recommendation: Korokoro Animal 2
+
+#2 recommendation: Kupu~!! Mamegoma!
+
+#3 recommendation: Paboo & Mojies
+
+#4 recommendation: Porong Porong Pororo 2
+
+#5 recommendation: Poka Poka Mori no Rascal
+
+#6 recommendation: Morizo to Kikkoro
+
+#7 recommendation: Porong Porong Pororo
+
+#8 recommendation: Cross Fight B-Daman eS
+
+#9 recommendation: Barnacle Lou
+
+#10 recommendation: Uchuujin Pipi
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Prince of Tennis and wants to watch long anime with these genres:Sports, Action, School
+
+#1 recommendation: Eyeshield 21
+Similarity rate of the show above and your favorite show:0.9714999758462034
+
+#2 recommendation: Lupin III: Part II
+Similarity rate of the show above and your favorite show:0.9409362004565062
+
+#3 recommendation: Touch
+Similarity rate of the show above and your favorite show:0.9338906165804634
+
+#4 recommendation: Inazuma Eleven
+Similarity rate of the show above and your favorite show:0.9322377090360124
+
+#5 recommendation: Saiki Kusuo no Ψ-nan (TV)
+Similarity rate of the show above and your favorite show:0.9246892699395173
+
+#6 recommendation: Naruto
+Similarity rate of the show above and your favorite show:0.924123417207364
+
+#7 recommendation: Hokuto no Ken
+Similarity rate of the show above and your favorite show:0.9234947984367096
+
+#8 recommendation: Katekyo Hitman Reborn!
+Similarity rate of the show above and your favorite show:0.922614524042675
+
+#9 recommendation: Aikatsu!
+Similarity rate of the show above and your favorite show:0.9212667765561559
+
+#10 recommendation: D.Gray-man
+Similarity rate of the show above and your favorite show:0.9210576946327903
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Prince of Tennis
+
+#1 recommendation: Dokaben
+
+#2 recommendation: Eyeshield 21
+
+#3 recommendation: Kinnikuman: Kinnikusei Oui Soudatsu-hen
+
+#4 recommendation: Ganbare Genki
+
+#5 recommendation: Ansatsu Kyoushitsu (TV) 2nd Season
+
+#6 recommendation: Ansatsu Kyoushitsu (TV)
+
+#7 recommendation: New Prince of Tennis
+
+#8 recommendation: Aoharu x Kikanjuu
+
+#9 recommendation: Captain Tsubasa
+
+#10 recommendation: Aoki Densetsu Shoot!
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Hataraku Maou-sama! and wants to watch short anime with these genres:Demons, Fantasy, Shounen
+
+#1 recommendation: D.Gray-man Hallow
+Similarity rate of the show above and your favorite show:0.9752307113016362
+
+#2 recommendation: Ushio to Tora (TV) 2nd Season
+Similarity rate of the show above and your favorite show:0.9733767531326779
+
+#3 recommendation: Talpy
+Similarity rate of the show above and your favorite show:0.9653812316280861
+
+#4 recommendation: Aria The Animation
+Similarity rate of the show above and your favorite show:0.9641295513826007
+
+#5 recommendation: Magi: Sinbad no Bouken (TV)
+Similarity rate of the show above and your favorite show:0.9577333490876638
+
+#6 recommendation: Kamisama Hajimemashita
+Similarity rate of the show above and your favorite show:0.9544150440909723
+
+#7 recommendation: Jinrui wa Suitai Shimashita
+Similarity rate of the show above and your favorite show:0.9536396574728602
+
+#8 recommendation: Zettai Karen Children: The Unlimited - Hyoubu Kyousuke
+Similarity rate of the show above and your favorite show:0.9524102853975245
+
+#9 recommendation: Kyoukai no Kanata
+Similarity rate of the show above and your favorite show:0.9520075729711567
+
+#10 recommendation: Kyousou Giga (TV)
+Similarity rate of the show above and your favorite show:0.9502175037934126
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Hataraku Maou-sama!
+
+#1 recommendation: Kage kara Mamoru!
+
+#2 recommendation: Mamotte Shugogetten!
+
+#3 recommendation: Bakuman.
+
+#4 recommendation: Tenshi ni Narumon!
+
+#5 recommendation: Ushio to Tora (TV) 2nd Season
+
+#6 recommendation: Boys Be...
+
+#7 recommendation: Himawari!!
+
+#8 recommendation: Kamisama Hajimemashita
+
+#9 recommendation: Jitsu wa Watashi wa
+
+#10 recommendation: Magikano
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Shirokuma Cafe and wants to watch normal anime with these genres:Comedy, Josei, Slice of Life
+
+#1 recommendation: Poyopoyo Kansatsu Nikki
+Similarity rate of the show above and your favorite show:0.9791933092598732
+
+#2 recommendation: Chie-chan Funsenki: Jarinko Chie
+Similarity rate of the show above and your favorite show:0.9777549183250349
+
+#3 recommendation: Kuruneko
+Similarity rate of the show above and your favorite show:0.9713998300734914
+
+#4 recommendation: Yakitate!! Japan
+Similarity rate of the show above and your favorite show:0.9610298885371621
+
+#5 recommendation: Hungry Heart: Wild Striker
+Similarity rate of the show above and your favorite show:0.9609507798128976
+
+#6 recommendation: Super GALS! Kotobuki Ran
+Similarity rate of the show above and your favorite show:0.9510869076114855
+
+#7 recommendation: Watashi no Ashinaga Ojisan
+Similarity rate of the show above and your favorite show:0.9489348172581128
+
+#8 recommendation: Akachan to Boku
+Similarity rate of the show above and your favorite show:0.9479427503806908
+
+#9 recommendation: Heartcatch Precure!
+Similarity rate of the show above and your favorite show:0.9474565466209601
+
+#10 recommendation: Les Misérables: Shoujo Cosette
+Similarity rate of the show above and your favorite show:0.9450688244826593
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Shirokuma Cafe
+
+#1 recommendation: Super Seisyun Brothers
+
+#2 recommendation: Kantoku Fuyuki Todoki
+
+#3 recommendation: Kuragehime
+
+#4 recommendation: Kuruneko
+
+#5 recommendation: Kuruneko Season 2
+
+#6 recommendation: Ijiwaru Baasan (1996)
+
+#7 recommendation: Heisei Tensai Bakabon
+
+#8 recommendation: Norasco (TV)
+
+#9 recommendation: Tensai Bakabon
+
+#10 recommendation: Ijiwaru Baasan
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Keroro Gunsou and wants to watch long anime with these genres:Sci-Fi, Shounen
+
+#1 recommendation: Kindaichi Shounen no Jikenbo (TV)
+Similarity rate of the show above and your favorite show:0.9421651856905343
+
+#2 recommendation: Bleach
+Similarity rate of the show above and your favorite show:0.93433541826871
+
+#3 recommendation: Saint Seiya
+Similarity rate of the show above and your favorite show:0.9252953768523354
+
+#4 recommendation: Yu☆Gi☆Oh! Duel Monsters
+Similarity rate of the show above and your favorite show:0.9189408676693697
+
+#5 recommendation: Hokuto no Ken
+Similarity rate of the show above and your favorite show:0.9182529146821915
+
+#6 recommendation: Lupin III: Part II
+Similarity rate of the show above and your favorite show:0.9153910657146959
+
+#7 recommendation: Naruto
+Similarity rate of the show above and your favorite show:0.9127726617200844
+
+#8 recommendation: Prince of Tennis
+Similarity rate of the show above and your favorite show:0.9119432553456891
+
+#9 recommendation: Inazuma Eleven
+Similarity rate of the show above and your favorite show:0.9117004608272785
+
+#10 recommendation: Urusei Yatsura
+Similarity rate of the show above and your favorite show:0.9100722829802745
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Keroro Gunsou
+
+#1 recommendation: Ai Tenchi Muyou!
+
+#2 recommendation: Bomberman B-Daman Bakugaiden
+
+#3 recommendation: Marude Dameo
+
+#4 recommendation: Keroro
+
+#5 recommendation: Level E
+
+#6 recommendation: Dr. Slump: Arale-chan
+
+#7 recommendation: Mister Ajikko
+
+#8 recommendation: Takoyaki Mant-Man
+
+#9 recommendation: Dr. Slump
+
+#10 recommendation: Yakitate!! Japan
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Akagami no Shirayuki-hime and wants to watch short anime with these genres:Drama, Romance
+
+#1 recommendation: Plastic Memories
+Similarity rate of the show above and your favorite show:0.9881394924048746
+
+#2 recommendation: Tokyo Magnitude 8.0
+Similarity rate of the show above and your favorite show:0.9859117125188795
+
+#3 recommendation: ef: A Tale of Memories.
+Similarity rate of the show above and your favorite show:0.9819506051855886
+
+#4 recommendation: White Album 2
+Similarity rate of the show above and your favorite show:0.9741446788621856
+
+#5 recommendation: Junjou Romantica
+Similarity rate of the show above and your favorite show:0.9708366786135791
+
+#6 recommendation: Grisaia no Rakuen
+Similarity rate of the show above and your favorite show:0.9683181660466723
+
+#7 recommendation: Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+Similarity rate of the show above and your favorite show:0.9676250174296503
+
+#8 recommendation: Akagami no Shirayuki-hime 2nd Season
+Similarity rate of the show above and your favorite show:0.966874452415146
+
+#9 recommendation: Sekaiichi Hatsukoi
+Similarity rate of the show above and your favorite show:0.965738600775098
+
+#10 recommendation: Junjou Romantica 3
+Similarity rate of the show above and your favorite show:0.9651822252636807
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Akagami no Shirayuki-hime
+
+#1 recommendation: Akagami no Shirayuki-hime 2nd Season
+
+#2 recommendation: Koisuru Tenshi Angelique: Kagayaki no Ashita
+
+#3 recommendation: Sentimental Journey
+
+#4 recommendation: Ginyuu Mokushiroku Meine Liebe Wieder
+
+#5 recommendation: Glass no Kamen
+
+#6 recommendation: Nagi no Asukara
+
+#7 recommendation: Hanasakeru Seishounen
+
+#8 recommendation: Soredemo Sekai wa Utsukushii
+
+#9 recommendation: Sister Princess: Re Pure
+
+#10 recommendation: Honoo no Alpenrose: Judy & Randy
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Golden Time and wants to watch short anime with these genres:Seinen, Romance
+
+#1 recommendation: Arakawa Under the Bridge x Bridge
+Similarity rate of the show above and your favorite show:0.9667895340572739
+
+#2 recommendation: Arakawa Under the Bridge
+Similarity rate of the show above and your favorite show:0.9583799505443935
+
+#3 recommendation: Aa! Megami-sama!: Sorezore no Tsubasa
+Similarity rate of the show above and your favorite show:0.9520171730413932
+
+#4 recommendation: Ore Monogatari!!
+Similarity rate of the show above and your favorite show:0.9508095784565592
+
+#5 recommendation: Itazura na Kiss
+Similarity rate of the show above and your favorite show:0.9504111328780224
+
+#6 recommendation: Senjou no Valkyria
+Similarity rate of the show above and your favorite show:0.9496978734762518
+
+#7 recommendation: Giant Killing
+Similarity rate of the show above and your favorite show:0.9463327288994363
+
+#8 recommendation: Magic Kaito 1412
+Similarity rate of the show above and your favorite show:0.9452132070593707
+
+#9 recommendation: 3-gatsu no Lion
+Similarity rate of the show above and your favorite show:0.9450747906159723
+
+#10 recommendation: Baby Steps
+Similarity rate of the show above and your favorite show:0.9448907079769915
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Golden Time
+
+#1 recommendation: Arakawa Under the Bridge
+
+#2 recommendation: Arakawa Under the Bridge x Bridge
+
+#3 recommendation: Love Get Chu
+
+#4 recommendation: Nihon-ichi no Otoko no Tamashii 2
+
+#5 recommendation: Nihon-ichi no Otoko no Tamashii
+
+#6 recommendation: Himawari!!
+
+#7 recommendation: Futsuu no Joshikousei ga [Locodol] Yattemita.
+
+#8 recommendation: Nogizaka Haruka no Himitsu
+
+#9 recommendation: Danchi Tomoo
+
+#10 recommendation: Rerere no Tensai Bakabon
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Nisekoi and wants to watch short anime with these genres:Harem, Shounen, Romance, School, Comedy
+
+#1 recommendation: Magic Kaito 1412
+Similarity rate of the show above and your favorite show:0.9896240415392891
+
+#2 recommendation: Sakigake!! Cromartie Koukou
+Similarity rate of the show above and your favorite show:0.9895469013726571
+
+#3 recommendation: School Rumble
+Similarity rate of the show above and your favorite show:0.9877089111368167
+
+#4 recommendation: Baby Steps
+Similarity rate of the show above and your favorite show:0.987270702667297
+
+#5 recommendation: Special A
+Similarity rate of the show above and your favorite show:0.9850852936705828
+
+#6 recommendation: Golden Time
+Similarity rate of the show above and your favorite show:0.9849873898141729
+
+#7 recommendation: Seto no Hanayome
+Similarity rate of the show above and your favorite show:0.9846891011332524
+
+#8 recommendation: Igano Kabamaru
+Similarity rate of the show above and your favorite show:0.9823516843878369
+
+#9 recommendation: School Rumble Ni Gakki
+Similarity rate of the show above and your favorite show:0.9819890670892333
+
+#10 recommendation: Baka to Test to Shoukanjuu Ni!
+Similarity rate of the show above and your favorite show:0.9811685447999685
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Nisekoi
+
+#1 recommendation: Nisekoi:
+
+#2 recommendation: Denpa Kyoushi (TV)
+
+#3 recommendation: Tokimeki Memorial: Only Love
+
+#4 recommendation: School Rumble Ni Gakki
+
+#5 recommendation: School Rumble
+
+#6 recommendation: Ore no Kanojo to Osananajimi ga Shuraba Sugiru
+
+#7 recommendation: Kanojo ga Flag wo Oraretara
+
+#8 recommendation: Hatsukoi Limited
+
+#9 recommendation: Akaneiro ni Somaru Saka
+
+#10 recommendation: Karin
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Hana yori Dango and wants to watch normal anime with these genres:Drama, Romance, Shoujo
+
+#1 recommendation: Hanasakeru Seishounen
+Similarity rate of the show above and your favorite show:0.9944789650638453
+
+#2 recommendation: Black Jack (TV)
+Similarity rate of the show above and your favorite show:0.9910690409423113
+
+#3 recommendation: Hello! Lady Lynn
+Similarity rate of the show above and your favorite show:0.9908902276795656
+
+#4 recommendation: Bishoujo Senshi Sailor Moon S
+Similarity rate of the show above and your favorite show:0.9873149916754586
+
+#5 recommendation: Glass no Kamen (2005)
+Similarity rate of the show above and your favorite show:0.9784683833616659
+
+#6 recommendation: Akachan to Boku
+Similarity rate of the show above and your favorite show:0.9764529780035823
+
+#7 recommendation: Bishoujo Senshi Sailor Moon SuperS
+Similarity rate of the show above and your favorite show:0.9750162580697997
+
+#8 recommendation: Ashita no Nadja
+Similarity rate of the show above and your favorite show:0.9746308727191882
+
+#9 recommendation: Les Misérables: Shoujo Cosette
+Similarity rate of the show above and your favorite show:0.9736972544095734
+
+#10 recommendation: Shoukoujo Sara
+Similarity rate of the show above and your favorite show:0.9724241807370313
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Hana yori Dango
+
+#1 recommendation: Hanasakeru Seishounen
+
+#2 recommendation: Ace wo Nerae!
+
+#3 recommendation: Shin Ace wo Nerae!
+
+#4 recommendation: Kimikiss Pure Rouge
+
+#5 recommendation: Glass no Kamen
+
+#6 recommendation: Maria-sama ga Miteru: Haru
+
+#7 recommendation: Orange
+
+#8 recommendation: True Tears
+
+#9 recommendation: Myself  Yourself
+
+#10 recommendation: Sentimental Journey
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Ao Haru Ride and wants to watch short anime with these genres:Comedy, Romance, School, Shoujo, Slice of Life
+
+#1 recommendation: Bokura wa Minna Kawaisou
+Similarity rate of the show above and your favorite show:0.9999760762861766
+
+#2 recommendation: Yuru Yuri♪♪
+Similarity rate of the show above and your favorite show:0.9996755236538398
+
+#3 recommendation: Hidamari Sketch x 365
+Similarity rate of the show above and your favorite show:0.9992801897433432
+
+#4 recommendation: Hidamari Sketch x Honeycomb
+Similarity rate of the show above and your favorite show:0.9984006553170017
+
+#5 recommendation: New Game!
+Similarity rate of the show above and your favorite show:0.9983372399198392
+
+#6 recommendation: Working'!!
+Similarity rate of the show above and your favorite show:0.998044540961683
+
+#7 recommendation: Working!!
+Similarity rate of the show above and your favorite show:0.9979601628568865
+
+#8 recommendation: Yume-iro Pâtissière SP Professional
+Similarity rate of the show above and your favorite show:0.997958313638418
+
+#9 recommendation: Minami-ke
+Similarity rate of the show above and your favorite show:0.9976462090760282
+
+#10 recommendation: Hidamari Sketch x ☆☆☆
+Similarity rate of the show above and your favorite show:0.9976141746163318
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Ao Haru Ride
+
+#1 recommendation: Kareshi Kanojo no Jijou
+
+#2 recommendation: Chuunibyou demo Koi ga Shitai!
+
+#3 recommendation: Chuunibyou demo Koi ga Shitai! Ren
+
+#4 recommendation: Tonari no Kaibutsu-kun
+
+#5 recommendation: I My Me! Strawberry Eggs
+
+#6 recommendation: Nijiiro Days
+
+#7 recommendation: Sakurasou no Pet na Kanojo
+
+#8 recommendation: Oh! Family
+
+#9 recommendation: Chou Kuse ni Narisou
+
+#10 recommendation: Otome wa Boku ni Koishiteru
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Kimi to Boku. and wants to watch short anime with these genres:Comedy, Shounen, Slice of Life
+
+#1 recommendation: Working!!
+Similarity rate of the show above and your favorite show:0.9998188124164532
+
+#2 recommendation: Servant x Service
+Similarity rate of the show above and your favorite show:0.9993003558651767
+
+#3 recommendation: New Game!
+Similarity rate of the show above and your favorite show:0.9990981469378111
+
+#4 recommendation: Ichigo Mashimaro
+Similarity rate of the show above and your favorite show:0.9981364066741382
+
+#5 recommendation: Working'!!
+Similarity rate of the show above and your favorite show:0.9966334705108103
+
+#6 recommendation: Gochuumon wa Usagi Desu ka??
+Similarity rate of the show above and your favorite show:0.9942598261397826
+
+#7 recommendation: Seitokai Yakuindomo*
+Similarity rate of the show above and your favorite show:0.9937494156886822
+
+#8 recommendation: Seitokai Yakuindomo
+Similarity rate of the show above and your favorite show:0.9899908285374494
+
+#9 recommendation: Shinryaku!? Ika Musume
+Similarity rate of the show above and your favorite show:0.9888859060304949
+
+#10 recommendation: Isshuukan Friends.
+Similarity rate of the show above and your favorite show:0.9887223588161691
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Kimi to Boku.
+
+#1 recommendation: Kimi to Boku.
+
+#2 recommendation: Tsuyoshi Shikkari Shinasai
+
+#3 recommendation: I My Me! Strawberry Eggs
+
+#4 recommendation: Nanaka 6/17
+
+#5 recommendation: Chuunibyou demo Koi ga Shitai!
+
+#6 recommendation: Chuunibyou demo Koi ga Shitai! Ren
+
+#7 recommendation: Sakurasou no Pet na Kanojo
+
+#8 recommendation: Great Teacher Onizuka
+
+#9 recommendation: Kimagure Orange☆Road
+
+#10 recommendation: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Naruto and wants to watch long anime with these genres:Action, Martial Arts, Super Power, Shounen
+
+#1 recommendation: Katekyo Hitman Reborn!
+Similarity rate of the show above and your favorite show:0.960713989938642
+
+#2 recommendation: Eyeshield 21
+Similarity rate of the show above and your favorite show:0.9550282088961979
+
+#3 recommendation: Lupin III: Part II
+Similarity rate of the show above and your favorite show:0.9547571778695004
+
+#4 recommendation: Kindaichi Shounen no Jikenbo (TV)
+Similarity rate of the show above and your favorite show:0.9539117540561868
+
+#5 recommendation: Prince of Tennis
+Similarity rate of the show above and your favorite show:0.95219370133452
+
+#6 recommendation: Hokuto no Ken
+Similarity rate of the show above and your favorite show:0.9499775363920278
+
+#7 recommendation: Inazuma Eleven
+Similarity rate of the show above and your favorite show:0.9493525568601323
+
+#8 recommendation: Dragon Ball
+Similarity rate of the show above and your favorite show:0.9481493400947415
+
+#9 recommendation: Bleach
+Similarity rate of the show above and your favorite show:0.9381575809718923
+
+#10 recommendation: D.Gray-man
+Similarity rate of the show above and your favorite show:0.9336734922981011
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Naruto
+
+#1 recommendation: Katekyo Hitman Reborn!
+
+#2 recommendation: Dragon Ball Z
+
+#3 recommendation: Dragon Ball Kai
+
+#4 recommendation: Bleach
+
+#5 recommendation: Dragon Ball Kai (2014)
+
+#6 recommendation: Kenyuu Densetsu Yaiba
+
+#7 recommendation: Shijou Saikyou no Deshi Kenichi
+
+#8 recommendation: Rekka no Honoo
+
+#9 recommendation: Virtua Fighter
+
+#10 recommendation: Tatakae!! Ramenman
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Orange and wants to watch short anime with these genres:Romance, Sci-Fi
+
+#1 recommendation: Plastic Memories
+Similarity rate of the show above and your favorite show:0.9832104864927207
+
+#2 recommendation: AKB0048: Next Stage
+Similarity rate of the show above and your favorite show:0.9665850666974327
+
+#3 recommendation: No.6
+Similarity rate of the show above and your favorite show:0.9646086220596293
+
+#4 recommendation: Flip Flappers
+Similarity rate of the show above and your favorite show:0.9599479555102403
+
+#5 recommendation: Seikai no Senki
+Similarity rate of the show above and your favorite show:0.9568493786467502
+
+#6 recommendation: Seikai no Monshou
+Similarity rate of the show above and your favorite show:0.9555508523960313
+
+#7 recommendation: Kiznaiver
+Similarity rate of the show above and your favorite show:0.9540380573049508
+
+#8 recommendation: Seikai no Senki II
+Similarity rate of the show above and your favorite show:0.9535037321537926
+
+#9 recommendation: Space☆Dandy
+Similarity rate of the show above and your favorite show:0.948803337214636
+
+#10 recommendation: Arakawa Under the Bridge x Bridge
+Similarity rate of the show above and your favorite show:0.9484068809955278
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Orange
+
+#1 recommendation: Saishuu Heiki Kanojo
+
+#2 recommendation: Ushinawareta Mirai wo Motomete
+
+#3 recommendation: Hana yori Dango
+
+#4 recommendation: Ray The Animation
+
+#5 recommendation: Myself  Yourself
+
+#6 recommendation: Plastic Memories
+
+#7 recommendation: Maria-sama ga Miteru: Haru
+
+#8 recommendation: True Tears
+
+#9 recommendation: Seraphim Call
+
+#10 recommendation: Koi to Senkyo to Chocolate
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Black Jack 21 and wants to watch short anime with these genres:Action, Drama
+
+#1 recommendation: 91 Days
+Similarity rate of the show above and your favorite show:0.9750902519728659
+
+#2 recommendation: Lady Lady!!
+Similarity rate of the show above and your favorite show:0.9696117472475084
+
+#3 recommendation: Texhnolyze
+Similarity rate of the show above and your favorite show:0.9668812795096472
+
+#4 recommendation: Gangsta.
+Similarity rate of the show above and your favorite show:0.9664742191414345
+
+#5 recommendation: Guilty Crown
+Similarity rate of the show above and your favorite show:0.9654049358369492
+
+#6 recommendation: Kiznaiver
+Similarity rate of the show above and your favorite show:0.9652171200973853
+
+#7 recommendation: Hai to Gensou no Grimgar
+Similarity rate of the show above and your favorite show:0.9649187104846078
+
+#8 recommendation: Michiko to Hatchin
+Similarity rate of the show above and your favorite show:0.9636038546103344
+
+#9 recommendation: No.6
+Similarity rate of the show above and your favorite show:0.9627599576614051
+
+#10 recommendation: Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season
+Similarity rate of the show above and your favorite show:0.9591395023715754
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Black Jack 21
+
+#1 recommendation: Tokyo Tribe 2
+
+#2 recommendation: Nanbaka
+
+#3 recommendation: Weiß Kreuz Glühen
+
+#4 recommendation: Hokuto no Ken: Raoh Gaiden Ten no Haoh
+
+#5 recommendation: Ragnastrike Angels
+
+#6 recommendation: X-Men
+
+#7 recommendation: Gangsta.
+
+#8 recommendation: Iron Man
+
+#9 recommendation: 91 Days
+
+#10 recommendation: Shangri-La
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Doraemon (1979) and wants to watch long anime with these genres:Kids
+
+#1 recommendation: Tobidase! Bacchiri
+Similarity rate of the show above and your favorite show:0.8749405717640961
+
+#2 recommendation: Itazura Tenshi Chippo-chan
+Similarity rate of the show above and your favorite show:0.8720298026047933
+
+#3 recommendation: Chi's Sweet Home: Atarashii Ouchi
+Similarity rate of the show above and your favorite show:0.871914834392284
+
+#4 recommendation: Pokemon
+Similarity rate of the show above and your favorite show:0.8637912918544817
+
+#5 recommendation: Kochira Katsushikaku Kameari Kouenmae Hashutsujo (TV)
+Similarity rate of the show above and your favorite show:0.8493111520118384
+
+#6 recommendation: Keroro Gunsou
+Similarity rate of the show above and your favorite show:0.8438264226092942
+
+#7 recommendation: Wagamama☆Fairy Mirumo de Pon!
+Similarity rate of the show above and your favorite show:0.8373489192385422
+
+#8 recommendation: Urusei Yatsura
+Similarity rate of the show above and your favorite show:0.8356454471040164
+
+#9 recommendation: Bleach
+Similarity rate of the show above and your favorite show:0.8349427899960605
+
+#10 recommendation: Aikatsu!
+Similarity rate of the show above and your favorite show:0.8336133205387569
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Doraemon (1979)
+
+#1 recommendation: Doraemon
+
+#2 recommendation: Ou Dorobou Jing
+
+#3 recommendation: Saint Seiya
+
+#4 recommendation: Eigo de Asobo: Tanken Goblin Tou
+
+#5 recommendation: Sonic X
+
+#6 recommendation: Bobobo-bo Bo-bobo
+
+#7 recommendation: TaoTao Ehonkan Sekai Doubutsu Banashi
+
+#8 recommendation: Kekkaishi
+
+#9 recommendation: Medarot
+
+#10 recommendation: B-Densetsu! Battle Bedaman
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes The iDOLM@STER and wants to watch short anime with these genres:Drama, Music
+
+#1 recommendation: Lady Lady!!
+Similarity rate of the show above and your favorite show:0.9727227615501386
+
+#2 recommendation: Black Jack 21
+Similarity rate of the show above and your favorite show:0.9653081627344535
+
+#3 recommendation: Winter Sonata
+Similarity rate of the show above and your favorite show:0.9642135345806274
+
+#4 recommendation: Giant Killing
+Similarity rate of the show above and your favorite show:0.956122323710111
+
+#5 recommendation: AKB0048: Next Stage
+Similarity rate of the show above and your favorite show:0.9516149702639055
+
+#6 recommendation: Hibike! Euphonium
+Similarity rate of the show above and your favorite show:0.9509961734933778
+
+#7 recommendation: Salaryman Kintarou
+Similarity rate of the show above and your favorite show:0.9488833436850552
+
+#8 recommendation: Kiznaiver
+Similarity rate of the show above and your favorite show:0.9482188015834908
+
+#9 recommendation: AKB0048
+Similarity rate of the show above and your favorite show:0.9475030443466047
+
+#10 recommendation: Glass no Kamen
+Similarity rate of the show above and your favorite show:0.9457118700433884
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes The iDOLM@STER
+
+#1 recommendation: The iDOLM@STER Cinderella Girls
+
+#2 recommendation: The iDOLM@STER Cinderella Girls 2nd Season
+
+#3 recommendation: ClassicaLoid
+
+#4 recommendation: Pankis! 2-jigen
+
+#5 recommendation: Shirobako
+
+#6 recommendation: Comic Party
+
+#7 recommendation: Comic Party Revolution
+
+#8 recommendation: Nerima Daikon Brothers
+
+#9 recommendation: Sekkou Boys
+
+#10 recommendation: Show By Rock!! #
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Bishoujo Senshi Sailor Moon R and wants to watch normal anime with these genres:Demons, Magic, Shoujo
+
+#1 recommendation: Bishoujo Senshi Sailor Moon
+Similarity rate of the show above and your favorite show:0.9931267549495415
+
+#2 recommendation: Sugar Sugar Rune
+Similarity rate of the show above and your favorite show:0.9792167735107221
+
+#3 recommendation: Ojamajo Doremi Dokkaan!
+Similarity rate of the show above and your favorite show:0.9760220920188507
+
+#4 recommendation: Kaitou Saint Tail
+Similarity rate of the show above and your favorite show:0.9733573441937282
+
+#5 recommendation: Bishoujo Senshi Sailor Moon SuperS
+Similarity rate of the show above and your favorite show:0.9725173786109631
+
+#6 recommendation: Jewelpet Twinkle☆
+Similarity rate of the show above and your favorite show:0.9700900639622063
+
+#7 recommendation: Bishoujo Senshi Sailor Moon S
+Similarity rate of the show above and your favorite show:0.9696044179541552
+
+#8 recommendation: Fushigiboshi no☆Futagohime
+Similarity rate of the show above and your favorite show:0.9690726869619694
+
+#9 recommendation: Shugo Chara!
+Similarity rate of the show above and your favorite show:0.9687226262878894
+
+#10 recommendation: Lady Jewelpet
+Similarity rate of the show above and your favorite show:0.9677625171288069
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Bishoujo Senshi Sailor Moon R
+
+#1 recommendation: Bishoujo Senshi Sailor Moon
+
+#2 recommendation: Bishoujo Senshi Sailor Moon Crystal Season III
+
+#3 recommendation: Kaitou Saint Tail
+
+#4 recommendation: Bishoujo Senshi Sailor Moon SuperS
+
+#5 recommendation: Bishoujo Senshi Sailor Moon S
+
+#6 recommendation: Mahou no Mako-chan
+
+#7 recommendation: Lady Jewelpet
+
+#8 recommendation: Aishite Knight
+
+#9 recommendation: Majokko Tickle
+
+#10 recommendation: Mermaid Melody Pichi Pichi Pitch Pure
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Inazuma Eleven and wants to watch long anime with these genres:Shounen, Super Power
+
+#1 recommendation: Kindaichi Shounen no Jikenbo (TV)
+Similarity rate of the show above and your favorite show:0.9643575656041529
+
+#2 recommendation: Yu☆Gi☆Oh! 5D's
+Similarity rate of the show above and your favorite show:0.9413922998794056
+
+#3 recommendation: Toriko
+Similarity rate of the show above and your favorite show:0.9356228647641907
+
+#4 recommendation: Lupin III: Part II
+Similarity rate of the show above and your favorite show:0.9348130785004554
+
+#5 recommendation: Konjiki no Gash Bell!!
+Similarity rate of the show above and your favorite show:0.9329847694359584
+
+#6 recommendation: Captain Tsubasa
+Similarity rate of the show above and your favorite show:0.9288808909881999
+
+#7 recommendation: Hokuto no Ken
+Similarity rate of the show above and your favorite show:0.9250887750779313
+
+#8 recommendation: Saint Seiya
+Similarity rate of the show above and your favorite show:0.922728000957737
+
+#9 recommendation: Eyeshield 21
+Similarity rate of the show above and your favorite show:0.9214134732356488
+
+#10 recommendation: Tiger Mask
+Similarity rate of the show above and your favorite show:0.9166296991511197
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Inazuma Eleven
+
+#1 recommendation: Inazuma Eleven Go: Chrono Stone
+
+#2 recommendation: Inazuma Eleven Go
+
+#3 recommendation: Inazuma Eleven Go: Galaxy
+
+#4 recommendation: Musashi no Ken
+
+#5 recommendation: Gekitou! Crush Gear Turbo
+
+#6 recommendation: Ginga e Kickoff!!
+
+#7 recommendation: Judo Sanka
+
+#8 recommendation: Captain (TV)
+
+#9 recommendation: Over Drive
+
+#10 recommendation: Kick no Oni
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Isshuukan Friends. and wants to watch short anime with these genres:School, Comedy, Shounen
+
+#1 recommendation: Masuda Kousuke Gekijou Gag Manga Biyori 2
+Similarity rate of the show above and your favorite show:0.9955011413193898
+
+#2 recommendation: Seitokai Yakuindomo
+Similarity rate of the show above and your favorite show:0.9930502177688303
+
+#3 recommendation: Seitokai Yakuindomo*
+Similarity rate of the show above and your favorite show:0.9891971292373805
+
+#4 recommendation: Gugure! Kokkuri-san
+Similarity rate of the show above and your favorite show:0.9889315746917405
+
+#5 recommendation: Sakamoto desu ga?
+Similarity rate of the show above and your favorite show:0.9887810707597122
+
+#6 recommendation: Moyashimon
+Similarity rate of the show above and your favorite show:0.9882450550562233
+
+#7 recommendation: Mitsudomoe
+Similarity rate of the show above and your favorite show:0.9880756211324273
+
+#8 recommendation: Hello!! Kiniro Mosaic
+Similarity rate of the show above and your favorite show:0.9879844550519716
+
+#9 recommendation: Minami-ke Okaeri
+Similarity rate of the show above and your favorite show:0.9877668759863405
+
+#10 recommendation: Shinryaku!? Ika Musume
+Similarity rate of the show above and your favorite show:0.9876837613152647
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Isshuukan Friends.
+
+#1 recommendation: Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+
+#2 recommendation: Isshuukan Friends.
+
+#3 recommendation: Amanchu!
+
+#4 recommendation: Aiura
+
+#5 recommendation: Seitokai Yakuindomo*
+
+#6 recommendation: Seitokai Yakuindomo
+
+#7 recommendation: Gin no Saji
+
+#8 recommendation: Gin no Saji 2nd Season
+
+#9 recommendation: Hidamari Sketch x ☆☆☆
+
+#10 recommendation: Hello!! Kiniro Mosaic
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Love Live! School Idol Project and wants to watch short anime with these genres:Music, Slice of Life
+
+#1 recommendation: Love Live! Sunshine!!
+Similarity rate of the show above and your favorite show:0.9878127928480129
+
+#2 recommendation: Tari Tari
+Similarity rate of the show above and your favorite show:0.9752158429391954
+
+#3 recommendation: Ichigo Mashimaro
+Similarity rate of the show above and your favorite show:0.9739367654565877
+
+#4 recommendation: Servant x Service
+Similarity rate of the show above and your favorite show:0.9739198921252402
+
+#5 recommendation: Yume-iro Pâtissière SP Professional
+Similarity rate of the show above and your favorite show:0.972802473610029
+
+#6 recommendation: Working!!
+Similarity rate of the show above and your favorite show:0.9728004005701666
+
+#7 recommendation: New Game!
+Similarity rate of the show above and your favorite show:0.9726197099738416
+
+#8 recommendation: Gochuumon wa Usagi Desu ka?
+Similarity rate of the show above and your favorite show:0.9725897381866667
+
+#9 recommendation: So Ra No Wo To
+Similarity rate of the show above and your favorite show:0.9725161314903815
+
+#10 recommendation: AKB0048
+Similarity rate of the show above and your favorite show:0.9722008685354622
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Love Live! School Idol Project
+
+#1 recommendation: Love Live! Sunshine!!
+
+#2 recommendation: Love Live! School Idol Project
+
+#3 recommendation: Love Live! School Idol Project 2nd Season
+
+#4 recommendation: Starmyu
+
+#5 recommendation: SoniAni: Super Sonico The Animation
+
+#6 recommendation: Tribe Cool Crew
+
+#7 recommendation: Aikatsu!
+
+#8 recommendation: Tsukiuta. The Animation
+
+#9 recommendation: Wakaba*Girl
+
+#10 recommendation: Minami-ke Tadaima
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Love Live! School Idol Project and wants to watch long anime with these genres:Music, Slice of Life
+
+#1 recommendation: Gegege no Kitarou (2007)
+Similarity rate of the show above and your favorite show:0.009468380029271469
+
+#2 recommendation: Touch
+Similarity rate of the show above and your favorite show:0.009073249507665679
+
+#3 recommendation: Doubutsu Mura Monogatari
+Similarity rate of the show above and your favorite show:0.009072545081591107
+
+#4 recommendation: Hoshi no Kirby
+Similarity rate of the show above and your favorite show:0.008485658219230462
+
+#5 recommendation: Duel Masters Cross
+Similarity rate of the show above and your favorite show:0.008451237067123835
+
+#6 recommendation: Penguin no Mondai
+Similarity rate of the show above and your favorite show:0.008384114874593743
+
+#7 recommendation: Manga Doushite Monogatari
+Similarity rate of the show above and your favorite show:0.00828194487524686
+
+#8 recommendation: Sakura Momoko Gekijou: Coji-Coji
+Similarity rate of the show above and your favorite show:0.008212881441043058
+
+#9 recommendation: MÄR
+Similarity rate of the show above and your favorite show:0.008205781817188994
+
+#10 recommendation: Ojamanga Yamada-kun
+Similarity rate of the show above and your favorite show:0.008077211048612207
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Love Live! School Idol Project
+
+#1 recommendation: Love Live! Sunshine!!
+
+#2 recommendation: Love Live! School Idol Project
+
+#3 recommendation: Love Live! School Idol Project 2nd Season
+
+#4 recommendation: Starmyu
+
+#5 recommendation: SoniAni: Super Sonico The Animation
+
+#6 recommendation: Tribe Cool Crew
+
+#7 recommendation: Aikatsu!
+
+#8 recommendation: Tsukiuta. The Animation
+
+#9 recommendation: Wakaba*Girl
+
+#10 recommendation: Minami-ke Tadaima
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Love Stage!! and wants to watch short anime with these genres:Shounen Ai, Romance
+
+#1 recommendation: Honobono Log
+Similarity rate of the show above and your favorite show:0.9666228309471043
+
+#2 recommendation: Super Lovers
+Similarity rate of the show above and your favorite show:0.9603407390354994
+
+#3 recommendation: Nobunaga Concerto
+Similarity rate of the show above and your favorite show:0.9546497750636934
+
+#4 recommendation: Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru
+Similarity rate of the show above and your favorite show:0.9527273350937833
+
+#5 recommendation: Oda Nobuna no Yabou
+Similarity rate of the show above and your favorite show:0.9526953802021395
+
+#6 recommendation: Rec
+Similarity rate of the show above and your favorite show:0.9497286132668921
+
+#7 recommendation: Nogizaka Haruka no Himitsu
+Similarity rate of the show above and your favorite show:0.9490204799942086
+
+#8 recommendation: Sukitte Ii na yo.
+Similarity rate of the show above and your favorite show:0.9478945657794736
+
+#9 recommendation: Arakawa Under the Bridge
+Similarity rate of the show above and your favorite show:0.9478827702528889
+
+#10 recommendation: Papa no Iukoto wo Kikinasai!
+Similarity rate of the show above and your favorite show:0.946436244855123
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Love Stage!!
+
+#1 recommendation: Nogizaka Haruka no Himitsu
+
+#2 recommendation: Sekaiichi Hatsukoi 2
+
+#3 recommendation: Junjou Romantica
+
+#4 recommendation: Junjou Romantica 2
+
+#5 recommendation: Junjou Romantica 3
+
+#6 recommendation: Sekaiichi Hatsukoi
+
+#7 recommendation: Himawari!!
+
+#8 recommendation: Nihon-ichi no Otoko no Tamashii 2
+
+#9 recommendation: Nihon-ichi no Otoko no Tamashii
+
+#10 recommendation: Love Get Chu
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Inu x Boku SS and wants to watch short anime with these genres:Supernatural, Comedy
+
+#1 recommendation: Masuda Kousuke Gekijou Gag Manga Biyori 2
+Similarity rate of the show above and your favorite show:0.9960059564937598
+
+#2 recommendation: Fukigen na Mononokean
+Similarity rate of the show above and your favorite show:0.9893764988077132
+
+#3 recommendation: Gugure! Kokkuri-san
+Similarity rate of the show above and your favorite show:0.9889499531668968
+
+#4 recommendation: Moyashimon
+Similarity rate of the show above and your favorite show:0.9882634207729801
+
+#5 recommendation: Yondemasu yo, Azazel-san. Z
+Similarity rate of the show above and your favorite show:0.9879239117925857
+
+#6 recommendation: Yondemasu yo, Azazel-san. (TV)
+Similarity rate of the show above and your favorite show:0.9877403725810953
+
+#7 recommendation: Heibai Wushang
+Similarity rate of the show above and your favorite show:0.9872990514555566
+
+#8 recommendation: Masuda Kousuke Gekijou Gag Manga Biyori +
+Similarity rate of the show above and your favorite show:0.9842816029621508
+
+#9 recommendation: Hoozuki no Reitetsu
+Similarity rate of the show above and your favorite show:0.9837970476849134
+
+#10 recommendation: Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
+Similarity rate of the show above and your favorite show:0.981248524197803
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Inu x Boku SS
+
+#1 recommendation: Saikin, Imouto no Yousu ga Chotto Okashiinda ga.
+
+#2 recommendation: Kami nomi zo Shiru Sekai
+
+#3 recommendation: Kage kara Mamoru!
+
+#4 recommendation: Kami nomi zo Shiru Sekai: Megami-hen
+
+#5 recommendation: Gugure! Kokkuri-san
+
+#6 recommendation: Sasami-san@Ganbaranai
+
+#7 recommendation: Kami nomi zo Shiru Sekai II
+
+#8 recommendation: Haunted Junction
+
+#9 recommendation: Natsu no Arashi! Akinaichuu
+
+#10 recommendation: Natsu no Arashi!
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Free! and wants to watch short anime with these genres:Sports
+
+#1 recommendation: Ginban Kaleidoscope
+Similarity rate of the show above and your favorite show:0.949553010436669
+
+#2 recommendation: New Prince of Tennis
+Similarity rate of the show above and your favorite show:0.9446460485546635
+
+#3 recommendation: Tsuritama
+Similarity rate of the show above and your favorite show:0.9397968688861696
+
+#4 recommendation: IGPX: Immortal Grand Prix (2005) 2nd Season
+Similarity rate of the show above and your favorite show:0.9317950420498158
+
+#5 recommendation: Free!: Eternal Summer
+Similarity rate of the show above and your favorite show:0.9311433862141878
+
+#6 recommendation: Taishou Yakyuu Musume.
+Similarity rate of the show above and your favorite show:0.9261943769971155
+
+#7 recommendation: Prince of Stride: Alternative
+Similarity rate of the show above and your favorite show:0.9232921650973849
+
+#8 recommendation: Ookiku Furikabutte: Natsu no Taikai-hen
+Similarity rate of the show above and your favorite show:0.9217186992135229
+
+#9 recommendation: Ro-Kyu-Bu! SS
+Similarity rate of the show above and your favorite show:0.9195390602128838
+
+#10 recommendation: Keijo!!!!!!!!
+Similarity rate of the show above and your favorite show:0.9184556934392508
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Free!
+
+#1 recommendation: Free!: Eternal Summer
+
+#2 recommendation: Hidamari Sketch
+
+#3 recommendation: Gakuen Utopia Manabi Straight!
+
+#4 recommendation: Hidamari Sketch x Honeycomb
+
+#5 recommendation: GJ-bu
+
+#6 recommendation: Hidamari Sketch x ☆☆☆
+
+#7 recommendation: Tanaka-kun wa Itsumo Kedaruge
+
+#8 recommendation: Kiniro Mosaic
+
+#9 recommendation: Hello!! Kiniro Mosaic
+
+#10 recommendation: Sansha Sanyou
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Owari no Seraph and wants to watch short anime with these genres:Vampire, Action
+
+#1 recommendation: No.6
+Similarity rate of the show above and your favorite show:0.9705485174089382
+
+#2 recommendation: Canaan
+Similarity rate of the show above and your favorite show:0.968558340023445
+
+#3 recommendation: Shikabane Hime: Kuro
+Similarity rate of the show above and your favorite show:0.9668487174603413
+
+#4 recommendation: Hellsing
+Similarity rate of the show above and your favorite show:0.9637777695650422
+
+#5 recommendation: Hulu Xiongdi
+Similarity rate of the show above and your favorite show:0.961675036341586
+
+#6 recommendation: Owari no Seraph: Nagoya Kessen-hen
+Similarity rate of the show above and your favorite show:0.9582918522157864
+
+#7 recommendation: Aldnoah.Zero
+Similarity rate of the show above and your favorite show:0.9565183129965954
+
+#8 recommendation: Donten ni Warau
+Similarity rate of the show above and your favorite show:0.9562666469244783
+
+#9 recommendation: Black Jack 21
+Similarity rate of the show above and your favorite show:0.9561234904987652
+
+#10 recommendation: Tales of Zestiria the X
+Similarity rate of the show above and your favorite show:0.9558918791554335
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Owari no Seraph
+
+#1 recommendation: Owari no Seraph: Nagoya Kessen-hen
+
+#2 recommendation: Bloodivores
+
+#3 recommendation: Dance in the Vampire Bund
+
+#4 recommendation: Weiß Kreuz Glühen
+
+#5 recommendation: Yumekui Merry
+
+#6 recommendation: JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season
+
+#7 recommendation: Trinity Blood
+
+#8 recommendation: JoJo no Kimyou na Bouken: Stardust Crusaders
+
+#9 recommendation: Weiß Kreuz
+
+#10 recommendation: JoJo no Kimyou na Bouken (TV)
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Watashi ga Motete Dousunda and wants to watch short anime with these genres:Comedy, Harem, Romance, School, Shoujo
+
+#1 recommendation: Masuda Kousuke Gekijou Gag Manga Biyori 2
+Similarity rate of the show above and your favorite show:0.998355956921866
+
+#2 recommendation: Sukitte Ii na yo.
+Similarity rate of the show above and your favorite show:0.9983435849277937
+
+#3 recommendation: Kono Bijutsubu ni wa Mondai ga Aru!
+Similarity rate of the show above and your favorite show:0.9960652973082861
+
+#4 recommendation: Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru
+Similarity rate of the show above and your favorite show:0.9956118782866523
+
+#5 recommendation: Saenai Heroine no Sodatekata
+Similarity rate of the show above and your favorite show:0.9954804032556223
+
+#6 recommendation: Love Lab
+Similarity rate of the show above and your favorite show:0.9948783163334717
+
+#7 recommendation: Ookami Shoujo to Kuro Ouji
+Similarity rate of the show above and your favorite show:0.9942468043805801
+
+#8 recommendation: Uta no☆Prince-sama♪ Maji Love 2000%
+Similarity rate of the show above and your favorite show:0.9940965033009684
+
+#9 recommendation: Mikakunin de Shinkoukei
+Similarity rate of the show above and your favorite show:0.9933339612699897
+
+#10 recommendation: Amagami SS+ Plus
+Similarity rate of the show above and your favorite show:0.9928948175701322
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Watashi ga Motete Dousunda
+
+#1 recommendation: Ouran Koukou Host Club
+
+#2 recommendation: Hatsukoi Monster
+
+#3 recommendation: Ookami Shoujo to Kuro Ouji
+
+#4 recommendation: Akaneiro ni Somaru Saka
+
+#5 recommendation: Kanojo ga Flag wo Oraretara
+
+#6 recommendation: Uta no☆Prince-sama♪ Maji Love 2000%
+
+#7 recommendation: Ore no Kanojo to Osananajimi ga Shuraba Sugiru
+
+#8 recommendation: Uta no☆Prince-sama♪ Maji Love Revolutions
+
+#9 recommendation: Uta no☆Prince-sama♪ Maji Love 1000%
+
+#10 recommendation: Special A
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Lady Jewelpet and wants to watch normal anime with these genres:Fantasy, Magic
+
+#1 recommendation: Sugar Sugar Rune
+Similarity rate of the show above and your favorite show:0.9884360006625701
+
+#2 recommendation: Onegai My Melody: Kuru Kuru Shuffle!
+Similarity rate of the show above and your favorite show:0.9802620823404994
+
+#3 recommendation: Jewelpet Twinkle☆
+Similarity rate of the show above and your favorite show:0.9746091101869628
+
+#4 recommendation: Suite Precure♪
+Similarity rate of the show above and your favorite show:0.9626198347090282
+
+#5 recommendation: Tenkuu Senki Shurato
+Similarity rate of the show above and your favorite show:0.9620083757917915
+
+#6 recommendation: Smile Precure!
+Similarity rate of the show above and your favorite show:0.9595844767149996
+
+#7 recommendation: Mahoujin Guru Guru
+Similarity rate of the show above and your favorite show:0.9591132155977736
+
+#8 recommendation: Motto! Ojamajo Doremi
+Similarity rate of the show above and your favorite show:0.9554095970719583
+
+#9 recommendation: Ojamajo Doremi Dokkaan!
+Similarity rate of the show above and your favorite show:0.9549433805005405
+
+#10 recommendation: Hime-chan no Ribbon
+Similarity rate of the show above and your favorite show:0.9527388687566907
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Lady Jewelpet
+
+#1 recommendation: Mahou no Mako-chan
+
+#2 recommendation: Jewelpet Sunshine
+
+#3 recommendation: Jewelpet Happiness
+
+#4 recommendation: Jewelpet Kira☆Deco!
+
+#5 recommendation: Jewelpet
+
+#6 recommendation: Sugar Sugar Rune
+
+#7 recommendation: Tongari Boushi no Memole
+
+#8 recommendation: Tenshi no Shippo Chu!
+
+#9 recommendation: Jewelpet Twinkle☆
+
+#10 recommendation: Bishoujo Senshi Sailor Moon
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Lady Jewelpet and wants to watch long anime with these genres:Magic, Shoujo
+
+#1 recommendation: Candy Candy
+Similarity rate of the show above and your favorite show:0.825801780184763
+
+#2 recommendation: MÄR
+Similarity rate of the show above and your favorite show:0.8192669169510123
+
+#3 recommendation: Ojamanga Yamada-kun
+Similarity rate of the show above and your favorite show:0.8176608563393025
+
+#4 recommendation: Chi's Sweet Home
+Similarity rate of the show above and your favorite show:0.8108007462641434
+
+#5 recommendation: Kodomo no Omocha (TV)
+Similarity rate of the show above and your favorite show:0.8076114439682621
+
+#6 recommendation: Tiger Mask
+Similarity rate of the show above and your favorite show:0.8073235577504572
+
+#7 recommendation: Chi's Sweet Home: Atarashii Ouchi
+Similarity rate of the show above and your favorite show:0.8050748697401243
+
+#8 recommendation: Di Gi Charat Nyo
+Similarity rate of the show above and your favorite show:0.8050748697401243
+
+#9 recommendation: Gegege no Kitarou (2007)
+Similarity rate of the show above and your favorite show:0.7838497663154441
+
+#10 recommendation: Fairy Tail (2014)
+Similarity rate of the show above and your favorite show:0.7836185920438689
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Lady Jewelpet
+
+#1 recommendation: Mahou no Mako-chan
+
+#2 recommendation: Jewelpet Sunshine
+
+#3 recommendation: Jewelpet Happiness
+
+#4 recommendation: Jewelpet Kira☆Deco!
+
+#5 recommendation: Jewelpet
+
+#6 recommendation: Sugar Sugar Rune
+
+#7 recommendation: Tongari Boushi no Memole
+
+#8 recommendation: Tenshi no Shippo Chu!
+
+#9 recommendation: Jewelpet Twinkle☆
+
+#10 recommendation: Bishoujo Senshi Sailor Moon
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Kuroshitsuji II and wants to watch short anime with these genres:Action, Demons, Fantasy, Supernatural
+
+#1 recommendation: Hakkenden: Touhou Hakken Ibun
+Similarity rate of the show above and your favorite show:0.9930017422126007
+
+#2 recommendation: Heibai Wushang
+Similarity rate of the show above and your favorite show:0.9884609552784935
+
+#3 recommendation: Tales of Zestiria the X
+Similarity rate of the show above and your favorite show:0.988435873399981
+
+#4 recommendation: Asura Cryin' 2
+Similarity rate of the show above and your favorite show:0.9869901774180669
+
+#5 recommendation: Yondemasu yo, Azazel-san. (TV)
+Similarity rate of the show above and your favorite show:0.9866747857596357
+
+#6 recommendation: Yondemasu yo, Azazel-san. Z
+Similarity rate of the show above and your favorite show:0.9863011041305588
+
+#7 recommendation: Kyoukaisenjou no Horizon
+Similarity rate of the show above and your favorite show:0.9858707152186479
+
+#8 recommendation: Devil May Cry
+Similarity rate of the show above and your favorite show:0.9831632493889025
+
+#9 recommendation: Kemonozume
+Similarity rate of the show above and your favorite show:0.9831255266849295
+
+#10 recommendation: Kyoukaisenjou no Horizon II
+Similarity rate of the show above and your favorite show:0.982584847139631
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Kuroshitsuji II
+
+#1 recommendation: Kuroshitsuji
+
+#2 recommendation: Ao no Exorcist
+
+#3 recommendation: Black Blood Brothers
+
+#4 recommendation: Nurarihyon no Mago
+
+#5 recommendation: Nurarihyon no Mago: Sennen Makyou
+
+#6 recommendation: Busou Renkin
+
+#7 recommendation: Ushio to Tora (TV)
+
+#8 recommendation: Nabari no Ou
+
+#9 recommendation: Sousei no Onmyouji
+
+#10 recommendation: Soul Eater
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes True Tears and wants to watch short anime with these genres:Drama, Romance
+
+#1 recommendation: Ginban Kaleidoscope
+Similarity rate of the show above and your favorite show:0.9873606529630444
+
+#2 recommendation: Myself  Yourself
+Similarity rate of the show above and your favorite show:0.984986378232643
+
+#3 recommendation: Kimi ga Nozomu Eien
+Similarity rate of the show above and your favorite show:0.9844149958513186
+
+#4 recommendation: Rec
+Similarity rate of the show above and your favorite show:0.9786102209380301
+
+#5 recommendation: Koi to Senkyo to Chocolate
+Similarity rate of the show above and your favorite show:0.9761994527830896
+
+#6 recommendation: Legend of Basara
+Similarity rate of the show above and your favorite show:0.974009824144317
+
+#7 recommendation: Air
+Similarity rate of the show above and your favorite show:0.9735482382854785
+
+#8 recommendation: Fune wo Amu
+Similarity rate of the show above and your favorite show:0.9725406159337721
+
+#9 recommendation: Ristorante Paradiso
+Similarity rate of the show above and your favorite show:0.9720108569277478
+
+#10 recommendation: Kiznaiver
+Similarity rate of the show above and your favorite show:0.9716792438938574
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes True Tears
+
+#1 recommendation: Myself  Yourself
+
+#2 recommendation: Koi to Senkyo to Chocolate
+
+#3 recommendation: Kimikiss Pure Rouge
+
+#4 recommendation: D.C.III: Da Capo III
+
+#5 recommendation: Wind: A Breath of Heart (TV)
+
+#6 recommendation: Saishuu Heiki Kanojo
+
+#7 recommendation: D.C.II: Da Capo II
+
+#8 recommendation: Aku no Hana
+
+#9 recommendation: Sister Princess: Re Pure
+
+#10 recommendation: Mashiro-iro Symphony: The Color of Lovers
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Uta no☆Prince-sama♪ Maji Love 2000% and wants to watch short anime with these genres:Harem, Music, Shoujo
+
+#1 recommendation: Uta no☆Prince-sama♪ Maji Love Legend Star
+Similarity rate of the show above and your favorite show:0.9790983312450313
+
+#2 recommendation: AKB0048
+Similarity rate of the show above and your favorite show:0.9745448192937762
+
+#3 recommendation: Nerima Daikon Brothers
+Similarity rate of the show above and your favorite show:0.9740325889910096
+
+#4 recommendation: Uta no☆Prince-sama♪ Maji Love 1000%
+Similarity rate of the show above and your favorite show:0.9703259810529742
+
+#5 recommendation: Watashi ga Motete Dousunda
+Similarity rate of the show above and your favorite show:0.9617117734798304
+
+#6 recommendation: Yume-iro Pâtissière SP Professional
+Similarity rate of the show above and your favorite show:0.9590479541705708
+
+#7 recommendation: AKB0048: Next Stage
+Similarity rate of the show above and your favorite show:0.9567493816300242
+
+#8 recommendation: Kamigami no Asobi
+Similarity rate of the show above and your favorite show:0.9556519894505395
+
+#9 recommendation: Senki Zesshou Symphogear G: In the Distance, That Day, When the Star Became Music...
+Similarity rate of the show above and your favorite show:0.9555904613306252
+
+#10 recommendation: Senki Zesshou Symphogear GX: Believe in Justice and Hold a Determination to Fist.
+Similarity rate of the show above and your favorite show:0.9555904613306252
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Uta no☆Prince-sama♪ Maji Love 2000%
+
+#1 recommendation: Uta no☆Prince-sama♪ Maji Love 2000%
+
+#2 recommendation: Uta no☆Prince-sama♪ Maji Love Revolutions
+
+#3 recommendation: Uta no☆Prince-sama♪ Maji Love Legend Star
+
+#4 recommendation: Watashi ga Motete Dousunda
+
+#5 recommendation: Ouran Koukou Host Club
+
+#6 recommendation: Ore no Kanojo to Osananajimi ga Shuraba Sugiru
+
+#7 recommendation: Kanojo ga Flag wo Oraretara
+
+#8 recommendation: Akaneiro ni Somaru Saka
+
+#9 recommendation: Hatsukoi Monster
+
+#10 recommendation: Ookami Shoujo to Kuro Ouji
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Nijiiro Days and wants to watch short anime with these genres:Romance, Slice of Life
+
+#1 recommendation: Amagami SS
+Similarity rate of the show above and your favorite show:0.9746433097123747
+
+#2 recommendation: Winter Sonata
+Similarity rate of the show above and your favorite show:0.9746215429215211
+
+#3 recommendation: Bokura ga Ita
+Similarity rate of the show above and your favorite show:0.9745504751351883
+
+#4 recommendation: Tomodachi de Iyou ne
+Similarity rate of the show above and your favorite show:0.9745436455093897
+
+#5 recommendation: Kimi ga Nozomu Eien
+Similarity rate of the show above and your favorite show:0.9695304942379198
+
+#6 recommendation: Honobono Log
+Similarity rate of the show above and your favorite show:0.9662187522727842
+
+#7 recommendation: Papa no Iukoto wo Kikinasai!
+Similarity rate of the show above and your favorite show:0.9645081592466077
+
+#8 recommendation: Yama no Susume Second Season
+Similarity rate of the show above and your favorite show:0.9565037462901252
+
+#9 recommendation: Glass no Kamen
+Similarity rate of the show above and your favorite show:0.9563621835845401
+
+#10 recommendation: Kimikiss Pure Rouge
+Similarity rate of the show above and your favorite show:0.9562021632573954
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Nijiiro Days
+
+#1 recommendation: Tonari no Kaibutsu-kun
+
+#2 recommendation: Chou Kuse ni Narisou
+
+#3 recommendation: Special A
+
+#4 recommendation: Toradora!
+
+#5 recommendation: Amagami SS
+
+#6 recommendation: Kaichou wa Maid-sama!
+
+#7 recommendation: Kareshi Kanojo no Jijou
+
+#8 recommendation: Mikan Enikki
+
+#9 recommendation: Amagami SS+ Plus
+
+#10 recommendation: Mikakunin de Shinkoukei
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Pokemon and wants to watch long anime with these genres:Kids, Adventure, Comedy
+
+#1 recommendation: Itazura Tenshi Chippo-chan
+Similarity rate of the show above and your favorite show:0.980637559183505
+
+#2 recommendation: Oden-kun
+Similarity rate of the show above and your favorite show:0.9666956042599408
+
+#3 recommendation: Atashin'chi
+Similarity rate of the show above and your favorite show:0.9595671301375611
+
+#4 recommendation: Tobidase! Bacchiri
+Similarity rate of the show above and your favorite show:0.9573815165086446
+
+#5 recommendation: Yu☆Gi☆Oh! Duel Monsters
+Similarity rate of the show above and your favorite show:0.9485214047796867
+
+#6 recommendation: Sobakasu Pucchi
+Similarity rate of the show above and your favorite show:0.9467440314292732
+
+#7 recommendation: Pokemon Diamond & Pearl
+Similarity rate of the show above and your favorite show:0.9461616571652159
+
+#8 recommendation: Mainichi Kaasan
+Similarity rate of the show above and your favorite show:0.9450619920109068
+
+#9 recommendation: Pokemon Advanced Generation
+Similarity rate of the show above and your favorite show:0.9420249100888212
+
+#10 recommendation: Konjiki no Gash Bell!!
+Similarity rate of the show above and your favorite show:0.9391702804990916
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Pokemon
+
+#1 recommendation: Pokemon Advanced Generation
+
+#2 recommendation: Pokemon Diamond & Pearl
+
+#3 recommendation: Pokemon XY
+
+#4 recommendation: Pokemon Best Wishes!
+
+#5 recommendation: Digimon Adventure
+
+#6 recommendation: Pokemon XY&Z
+
+#7 recommendation: Pokemon Best Wishes! Season 2
+
+#8 recommendation: Pokemon Best Wishes! Season 2: Decolora Adventure
+
+#9 recommendation: Pokemon Best Wishes! Season 2: Episode N
+
+#10 recommendation: The Adventures of T-Rex
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Uragiri wa Boku no Namae wo Shitteiru and wants to watch short anime with these genres:Shoujo, Fantasy, Drama
+
+#1 recommendation: Tales of the Abyss
+Similarity rate of the show above and your favorite show:0.9877618472779754
+
+#2 recommendation: Kaze no Shoujo Emily
+Similarity rate of the show above and your favorite show:0.9875525627170195
+
+#3 recommendation: Utawarerumono: Itsuwari no Kamen
+Similarity rate of the show above and your favorite show:0.9875186155227899
+
+#4 recommendation: Glass no Kamen
+Similarity rate of the show above and your favorite show:0.9871728470512269
+
+#5 recommendation: Strawberry Panic
+Similarity rate of the show above and your favorite show:0.9745427567259902
+
+#6 recommendation: Mai-Otome
+Similarity rate of the show above and your favorite show:0.9744574304723492
+
+#7 recommendation: Winter Sonata
+Similarity rate of the show above and your favorite show:0.9732449897677631
+
+#8 recommendation: Saiyuuki Reload
+Similarity rate of the show above and your favorite show:0.9727793308063787
+
+#9 recommendation: Puchi Puri Yuushi
+Similarity rate of the show above and your favorite show:0.9722770887225245
+
+#10 recommendation: Flanders no Inu, Boku no Patrasche
+Similarity rate of the show above and your favorite show:0.9722749487430072
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Uragiri wa Boku no Namae wo Shitteiru
+
+#1 recommendation: Hamelin no Violin Hiki
+
+#2 recommendation: Patalliro Saiyuuki!
+
+#3 recommendation: Oyayubi Hime Monogatari
+
+#4 recommendation: Tales of the Abyss
+
+#5 recommendation: Strange Dawn
+
+#6 recommendation: Yuki no Joou
+
+#7 recommendation: Endride
+
+#8 recommendation: Shinkai Densetsu Meremanoid
+
+#9 recommendation: Popolocrois Monogatari
+
+#10 recommendation: Kujira no Josephina
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Cyborg 009: The Cyborg Soldier and wants to watch short anime with these genres:Action, Mecha, Sci-Fi, Shounen, Adventure
+
+#1 recommendation: Kuromukuro
+Similarity rate of the show above and your favorite show:0.9752931124597847
+
+#2 recommendation: Kyoushoku Soukou Guyver (2005)
+Similarity rate of the show above and your favorite show:0.9752314992883693
+
+#3 recommendation: Allison to Lillia
+Similarity rate of the show above and your favorite show:0.9748204254236511
+
+#4 recommendation: Seimei no Kagaku: Micro Patrol
+Similarity rate of the show above and your favorite show:0.9733612415243368
+
+#5 recommendation: Sanzoku no Musume Ronja
+Similarity rate of the show above and your favorite show:0.9729525156413402
+
+#6 recommendation: Gun x Sword
+Similarity rate of the show above and your favorite show:0.9725185026806974
+
+#7 recommendation: RD Sennou Chousashitsu
+Similarity rate of the show above and your favorite show:0.9725073934491777
+
+#8 recommendation: Cross Ange: Tenshi to Ryuu no Rondo
+Similarity rate of the show above and your favorite show:0.971034486181551
+
+#9 recommendation: Oban Star-Racers
+Similarity rate of the show above and your favorite show:0.9709221305643189
+
+#10 recommendation: Bubblegum Crisis Tokyo 2040
+Similarity rate of the show above and your favorite show:0.9697086281105709
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Cyborg 009: The Cyborg Soldier
+
+#1 recommendation: Kikou Kantai Dairugger XV
+
+#2 recommendation: Cyborg 009: The Cyborg Soldier
+
+#3 recommendation: Cyborg 009 (1979)
+
+#4 recommendation: Yuusha Raideen
+
+#5 recommendation: Yuusha Tokkyuu Might Gaine
+
+#6 recommendation: Cyborg 009 (TV)
+
+#7 recommendation: Overman King Gainer
+
+#8 recommendation: Mugen Senki Portriss
+
+#9 recommendation: Captain Future
+
+#10 recommendation: Kagaku Ninja-tai Gatchaman II
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Orenchi no Furo Jijou and wants to watch short anime with these genres:Fantasy
+
+#1 recommendation: World Destruction: Sekai Bokumetsu no Rokunin
+Similarity rate of the show above and your favorite show:0.9748184640869282
+
+#2 recommendation: gdgd Fairies 2
+Similarity rate of the show above and your favorite show:0.974653425719146
+
+#3 recommendation: Kyoukaisenjou no Horizon
+Similarity rate of the show above and your favorite show:0.9714969001083956
+
+#4 recommendation: Druaga no Tou: The Sword of Uruk
+Similarity rate of the show above and your favorite show:0.9635869686171569
+
+#5 recommendation: Mama Ohanashi Kikasete
+Similarity rate of the show above and your favorite show:0.9609365665860043
+
+#6 recommendation: Elf wo Karu Mono-tachi II
+Similarity rate of the show above and your favorite show:0.9559628978915019
+
+#7 recommendation: Sekai Seifuku: Bouryaku no Zvezda
+Similarity rate of the show above and your favorite show:0.9557914278670986
+
+#8 recommendation: Reikenzan: Hoshikuzu-tachi no Utage
+Similarity rate of the show above and your favorite show:0.9554869583558312
+
+#9 recommendation: Namiuchigiwa no Muromi-san
+Similarity rate of the show above and your favorite show:0.9549786971070011
+
+#10 recommendation: Etotama
+Similarity rate of the show above and your favorite show:0.9536690033239129
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Orenchi no Furo Jijou
+
+#1 recommendation: Happy Kappy
+
+#2 recommendation: Happy Happy Clover
+
+#3 recommendation: Happy Seven: The TV Manga
+
+#4 recommendation: gdgd Fairies 2
+
+#5 recommendation: Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www (TV)
+
+#6 recommendation: High Score
+
+#7 recommendation: Shouwa Ahozoushi Akanuke Ichiban!
+
+#8 recommendation: Omishi Mahou Gekijou: Risky/Safety
+
+#9 recommendation: Francesca
+
+#10 recommendation: Yamato Nadeshiko Shichihenge♥
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Cheer Danshi!! and wants to watch short anime with these genres:Sports, School
+
+#1 recommendation: Prince of Stride: Alternative
+Similarity rate of the show above and your favorite show:0.9996800511945391
+
+#2 recommendation: Shakunetsu no Takkyuu Musume
+Similarity rate of the show above and your favorite show:0.997582925839347
+
+#3 recommendation: Ao no Kanata no Four Rhythm
+Similarity rate of the show above and your favorite show:0.9752345732228995
+
+#4 recommendation: Teekyuu 3
+Similarity rate of the show above and your favorite show:0.9749994188848558
+
+#5 recommendation: Ring ni Kakero 1: Sekai Taikai-hen
+Similarity rate of the show above and your favorite show:0.974997862787025
+
+#6 recommendation: Ro-Kyu-Bu!
+Similarity rate of the show above and your favorite show:0.9748155074670104
+
+#7 recommendation: Dallyeola Hani
+Similarity rate of the show above and your favorite show:0.9737365987144441
+
+#8 recommendation: Teekyuu 2
+Similarity rate of the show above and your favorite show:0.9737329408256851
+
+#9 recommendation: Shin Pro Golfer Saru
+Similarity rate of the show above and your favorite show:0.9726044771163483
+
+#10 recommendation: Moshidora
+Similarity rate of the show above and your favorite show:0.9725850252213256
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Cheer Danshi!!
+
+#1 recommendation: Shoujo-tachi wa Kouya wo Mezasu
+
+#2 recommendation: Days (TV)
+
+#3 recommendation: All Out!!
+
+#4 recommendation: Whistle!
+
+#5 recommendation: Go! Go! Itsutsugo Land
+
+#6 recommendation: Girlfriend (Kari)
+
+#7 recommendation: Anitore! EX
+
+#8 recommendation: Yuri!!! on Ice
+
+#9 recommendation: Anitore! XX
+
+#10 recommendation: Classroom☆Crisis
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Cheer Danshi!! and wants to watch normal anime with these genres:Sports
+
+#1 recommendation: Animal 1
+Similarity rate of the show above and your favorite show:0.8411031078818031
+
+#2 recommendation: Judo Sanka
+Similarity rate of the show above and your favorite show:0.8173155733585717
+
+#3 recommendation: Ore wa Teppei
+Similarity rate of the show above and your favorite show:0.7923102593917248
+
+#4 recommendation: Air Master
+Similarity rate of the show above and your favorite show:0.7708726578312896
+
+#5 recommendation: Lodoss-tou Senki: Eiyuu Kishi Den
+Similarity rate of the show above and your favorite show:0.7643343153435778
+
+#6 recommendation: Jetter Mars
+Similarity rate of the show above and your favorite show:0.7643343153435778
+
+#7 recommendation: Yu☆Gi☆Oh!
+Similarity rate of the show above and your favorite show:0.7608930353617357
+
+#8 recommendation: Sanchoume no Yuuhi
+Similarity rate of the show above and your favorite show:0.7572741029504703
+
+#9 recommendation: Nekojiru Gekijou Jirujiru Original
+Similarity rate of the show above and your favorite show:0.7572741029504703
+
+#10 recommendation: Mega Man
+Similarity rate of the show above and your favorite show:0.7546455418252451
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Cheer Danshi!!
+
+#1 recommendation: Shoujo-tachi wa Kouya wo Mezasu
+
+#2 recommendation: Days (TV)
+
+#3 recommendation: All Out!!
+
+#4 recommendation: Whistle!
+
+#5 recommendation: Go! Go! Itsutsugo Land
+
+#6 recommendation: Girlfriend (Kari)
+
+#7 recommendation: Anitore! EX
+
+#8 recommendation: Yuri!!! on Ice
+
+#9 recommendation: Anitore! XX
+
+#10 recommendation: Classroom☆Crisis
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Dance with Devils and wants to watch short anime with these genres:Demons, Harem, Romance
+
+#1 recommendation: Brothers Conflict
+Similarity rate of the show above and your favorite show:0.9851086226272895
+
+#2 recommendation: Mayoi Neko Overrun!
+Similarity rate of the show above and your favorite show:0.9825453716038022
+
+#3 recommendation: Tayutama: Kiss on My Deity
+Similarity rate of the show above and your favorite show:0.9802544333853133
+
+#4 recommendation: Yosuga no Sora: In Solitude, Where We Are Least Alone.
+Similarity rate of the show above and your favorite show:0.9752900120079083
+
+#5 recommendation: Hanaukyou Maid-tai
+Similarity rate of the show above and your favorite show:0.9752898120734764
+
+#6 recommendation: Akaneiro ni Somaru Saka
+Similarity rate of the show above and your favorite show:0.9751133054678285
+
+#7 recommendation: Mon Cheri CoCo
+Similarity rate of the show above and your favorite show:0.9745926857794744
+
+#8 recommendation: White Album
+Similarity rate of the show above and your favorite show:0.9737700335083028
+
+#9 recommendation: Kanojo ga Flag wo Oraretara
+Similarity rate of the show above and your favorite show:0.970797436785821
+
+#10 recommendation: Himawari!!
+Similarity rate of the show above and your favorite show:0.9707916042523417
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Dance with Devils
+
+#1 recommendation: Kamigami no Asobi
+
+#2 recommendation: Arcana Famiglia
+
+#3 recommendation: Bishoujo Senshi Sailor Moon Crystal Season III
+
+#4 recommendation: Hiiro no Kakera
+
+#5 recommendation: Hiiro no Kakera Dai Ni Shou
+
+#6 recommendation: Bishoujo Senshi Sailor Moon R
+
+#7 recommendation: Bishoujo Senshi Sailor Moon
+
+#8 recommendation: Ozmafia!!
+
+#9 recommendation: Tayutama: Kiss on My Deity
+
+#10 recommendation: Amaenaide yo!! Katsu!!
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Dance with Devils and wants to watch short anime with these genres:Shoujo, Romance, Harem
+
+#1 recommendation: Mon Cheri CoCo
+Similarity rate of the show above and your favorite show:0.9992646170822087
+
+#2 recommendation: Brothers Conflict
+Similarity rate of the show above and your favorite show:0.9961153090102166
+
+#3 recommendation: 12-sai.: Chicchana Mune no Tokimeki
+Similarity rate of the show above and your favorite show:0.9887502370915626
+
+#4 recommendation: 12-sai.: Chicchana Mune no Tokimeki 2nd Season
+Similarity rate of the show above and your favorite show:0.9856007550603384
+
+#5 recommendation: Sentimental Journey
+Similarity rate of the show above and your favorite show:0.9834808672183254
+
+#6 recommendation: Mayoi Neko Overrun!
+Similarity rate of the show above and your favorite show:0.9825453716038022
+
+#7 recommendation: Tayutama: Kiss on My Deity
+Similarity rate of the show above and your favorite show:0.9802544333853133
+
+#8 recommendation: Arcana Famiglia
+Similarity rate of the show above and your favorite show:0.9775515763354838
+
+#9 recommendation: Yosuga no Sora: In Solitude, Where We Are Least Alone.
+Similarity rate of the show above and your favorite show:0.9752900120079083
+
+#10 recommendation: Hanaukyou Maid-tai
+Similarity rate of the show above and your favorite show:0.9752898120734764
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Dance with Devils
+
+#1 recommendation: Kamigami no Asobi
+
+#2 recommendation: Arcana Famiglia
+
+#3 recommendation: Bishoujo Senshi Sailor Moon Crystal Season III
+
+#4 recommendation: Hiiro no Kakera
+
+#5 recommendation: Hiiro no Kakera Dai Ni Shou
+
+#6 recommendation: Bishoujo Senshi Sailor Moon R
+
+#7 recommendation: Bishoujo Senshi Sailor Moon
+
+#8 recommendation: Ozmafia!!
+
+#9 recommendation: Tayutama: Kiss on My Deity
+
+#10 recommendation: Amaenaide yo!! Katsu!!
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Inu to Hasami wa Tsukaiyou and wants to watch short anime with these genres:Comedy
+
+#1 recommendation: Ketsuekigata-kun! 2
+Similarity rate of the show above and your favorite show:0.9992802591378032
+
+#2 recommendation: To Be Hero
+Similarity rate of the show above and your favorite show:0.9990232733083403
+
+#3 recommendation: Usavich V
+Similarity rate of the show above and your favorite show:0.99858655541063
+
+#4 recommendation: Ketsuekigata-kun!
+Similarity rate of the show above and your favorite show:0.997582925839347
+
+#5 recommendation: Doushitemo Eto ni Hairitai
+Similarity rate of the show above and your favorite show:0.996890400406676
+
+#6 recommendation: Ketsuekigata-kun! 3
+Similarity rate of the show above and your favorite show:0.9966257057696892
+
+#7 recommendation: Ketsuekigata-kun! 4
+Similarity rate of the show above and your favorite show:0.9966257057696892
+
+#8 recommendation: Elec-king The Animation
+Similarity rate of the show above and your favorite show:0.9959338448424199
+
+#9 recommendation: Ton-Ton Atta to Niigata no Mukashibanashi
+Similarity rate of the show above and your favorite show:0.9953961857472258
+
+#10 recommendation: Himesama Goyoujin
+Similarity rate of the show above and your favorite show:0.9928097732623835
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Inu to Hasami wa Tsukaiyou
+
+#1 recommendation: Nyanpire The Animation
+
+#2 recommendation: Inu to Hasami wa Tsukaiyou
+
+#3 recommendation: Kaijuu Sakaba Kanpai!
+
+#4 recommendation: Fukigen na Mononokean
+
+#5 recommendation: Haitai Nanafa 2nd Season
+
+#6 recommendation: Haitai Nanafa
+
+#7 recommendation: Ryuugajou Nanana no Maizoukin (TV)
+
+#8 recommendation: Ghost Sweeper GS Mikami
+
+#9 recommendation: Chiisana Obake Acchi, Kocchi, Socchi
+
+#10 recommendation: Gegege no Kitarou (1985)
+
+************************************************
+Using Gaussian Radial Basis Model:
+For someone who likes Glasslip and wants to watch short anime with these genres:Slice of Life, Romance
+
+#1 recommendation: Lena lena
+Similarity rate of the show above and your favorite show:0.9912146179955234
+
+#2 recommendation: Ame-iro Cocoa in Hawaii
+Similarity rate of the show above and your favorite show:0.9737768416142408
+
+#3 recommendation: Suzakinishi the Animation
+Similarity rate of the show above and your favorite show:0.9727874030938691
+
+#4 recommendation: Peeping Life
+Similarity rate of the show above and your favorite show:0.9692667435934291
+
+#5 recommendation: Malta no Bouken
+Similarity rate of the show above and your favorite show:0.9661695747304196
+
+#6 recommendation: Koume-chan ga Iku!
+Similarity rate of the show above and your favorite show:0.9630830518311019
+
+#7 recommendation: Anisava
+Similarity rate of the show above and your favorite show:0.9593269711438518
+
+#8 recommendation: Choboraunyopomi Gekijou Ai Mai Mii
+Similarity rate of the show above and your favorite show:0.9590479541705708
+
+#9 recommendation: Peeping Life TV: Season 1??
+Similarity rate of the show above and your favorite show:0.9584806380355833
+
+#10 recommendation: Chii-chan to Hige Ojisan
+Similarity rate of the show above and your favorite show:0.9571068480685806
+
+------------------------------------------------------------
+Using K Nearest Neighbor:
+For someone who likes Glasslip
+
+#1 recommendation: Honobono Log
+
+#2 recommendation: Hai! Akko Desu
+
+#3 recommendation: ReLIFE
+
+#4 recommendation: Gingitsune
+
+#5 recommendation: Kyoukai no Kanata
+
+#6 recommendation: Natsu-iro Kiseki
+
+#7 recommendation: Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+
+#8 recommendation: Aoi Hana
+
+#9 recommendation: Mokke
+
+#10 recommendation: Dororonpa!
+
